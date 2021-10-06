@@ -1,0 +1,973 @@
+,question,answer,template_filename
+0,"Does there exist texts are both bottom the 2 text and top the 8 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+1,"Does there exist components are both bottom the 2 text and top the 8 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+2,"Does there exist journal texts are both bottom the 2 text and top the 8 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+3,"Does there exist journal components are both bottom the 2 text and top the 8 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+4,"Does there exist titles are both bottom the 0 text and top the 8 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+5,"Does there exist components are both bottom the 0 text and top the 8 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+6,"Does there exist journal texts are both bottom the 0 text and top the 8 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+7,"Does there exist journal components are bottom the 0 text and top the 8 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+8,"Does there exist journal titles are bottom the 0 text and top the 8 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+9,"Does there exist texts are both bottom the 0 text and top the 8 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+10,There is a journal text that is both top the 5 component and bottom the 8 journal title; what is its component?,text 3,single_and.json
+11,There is a journal component that is top the 5 component and bottom the 8 journal title; what component is it?,text 3,single_and.json
+12,The component that is top the 5 component and bottom the 8 journal title is what component?,text 3,single_and.json
+13,What component is the text that is top the 5 component and bottom the 8 journal title?,text 3,single_and.json
+14,There is a component that is both top the 5 journal component and bottom the 8 journal title; what component is it?,text 3,single_and.json
+15,What is the component of the text that is both top the 5 journal component and bottom the 8 journal title?,text 3,single_and.json
+16,What component is the journal text that is both top the 5 journal component and bottom the 8 journal title?,text 3,single_and.json
+17,There is a journal component that is top the 5 journal component and bottom the 8 journal title; what component is it?,text 3,single_and.json
+18,There is a journal component that is top the 5 text and bottom the 8 journal title; what component is it?,text 3,single_and.json
+19,What is the component of the component that is top the 5 text and bottom the 8 journal title?,text 3,single_and.json
+20,There is a component that is bottom the 5 text and top the 4 journal text; what is it made of?,journal,single_and.json
+21,There is a text that is bottom the 5 text and top the 4 journal text; what is its sources?,journal,single_and.json
+22,What is the sources of the component that is both bottom the 5 journal text and top the 4 journal text?,journal,single_and.json
+23,What is the text that is bottom the 5 journal text and top the 4 journal text made of?,journal,single_and.json
+24,The component that is both bottom the 5 journal component and top the 4 journal text is made of what sources?,journal,single_and.json
+25,There is a text that is both bottom the 5 journal component and top the 4 journal text; what material is it made of?,journal,single_and.json
+26,What sources is the component that is bottom the 5 component and top the 4 journal text?,journal,single_and.json
+27,There is a text that is bottom the 5 component and top the 4 journal text; what sources is it?,journal,single_and.json
+28,There is a component that is bottom the 7 journal component and top the 1 journal text; what is its sources?,journal,single_and.json
+29,What is the sources of the component that is bottom the 7 title and top the 1 journal text?,journal,single_and.json
+30,There is a title bottom the 6 journal component; Is 3 components bottom-right it?,No (we cannot find the thing meet the requirement),two_hop.json
+31,Is 6 texts bottom-left the title bottom the 6 journal component?,No (we cannot find the thing meet the requirement),two_hop.json
+32,Is 7 components bottom the title bottom the 6 journal component?,No (we cannot find the thing meet the requirement),two_hop.json
+33,There is a title that is bottom the 6 journal component; Is 8 journal components bottom-left it?,No (we cannot find the thing meet the requirement),two_hop.json
+34,There is a title that is bottom the 6 journal component; Is 8 journal titles bottom-left it?,No (we cannot find the thing meet the requirement),two_hop.json
+35,Is 2 journal texts top-right the title bottom the 6 journal component?,No (we cannot find the thing meet the requirement),two_hop.json
+36,Is 5 journal texts top-left the title bottom the 6 journal component?,No (we cannot find the thing meet the requirement),two_hop.json
+37,Is 0 journal components bottom the title that is bottom the 6 journal component?,No (we cannot find the thing meet the requirement),two_hop.json
+38,There is a title that is bottom the 6 journal component; Is 0 journal components top-right it?,No (we cannot find the thing meet the requirement),two_hop.json
+39,Is 4 texts bottom-left the title bottom the 6 journal component?,No (we cannot find the thing meet the requirement),two_hop.json
+40,There is a title top the 8 journal component; is there a 7 journal title that is left it?,No (we cannot find the thing meet the requirement),two_hop.json
+41,There is a title that is top the 8 journal component; are there any 7 journal titles top it?,No (we cannot find the thing meet the requirement),two_hop.json
+42,There is a title that is top the 8 journal component; are there any components that are top-left it?,No (we cannot find the thing meet the requirement),two_hop.json
+43,Are there 8 journal components bottom-right the title top the 8 journal component?,No (we cannot find the thing meet the requirement),two_hop.json
+44,Is there a 4 text top-left the title top the 8 journal component?,No (we cannot find the thing meet the requirement),two_hop.json
+45,Are there 0 journal texts that are top the title that is top the 8 journal component?,No (we cannot find the thing meet the requirement),two_hop.json
+46,There is a title that is top the 8 journal component; are there any 1 components that are bottom-left it?,No (we cannot find the thing meet the requirement),two_hop.json
+47,Are there 8 components top the title that is top the 8 journal component?,No (we cannot find the thing meet the requirement),two_hop.json
+48,Is there a 2 component that is top-left the title top the 8 journal component?,No (we cannot find the thing meet the requirement),two_hop.json
+49,Is there a 5 journal component that is bottom-right the title that is top the 8 journal component?,No (we cannot find the thing meet the requirement),two_hop.json
+50,What is the component of the journal title bottom the title that is top the 8 title?,"Abstract
+",two_hop.json
+51,What component is the title that is bottom the title top the 8 title?,"Abstract
+",two_hop.json
+52,The title that is bottom the journal title that is top the 8 title is what component?,"Abstract
+",two_hop.json
+53,There is a journal title that is bottom the journal title that is top the 8 title; what is its component?,"Abstract
+",two_hop.json
+54,What is the component of the journal title bottom the title top the 8 journal title?,"Abstract
+",two_hop.json
+55,There is a title that is bottom the title that is top the 8 journal title; what component is it?,"Abstract
+",two_hop.json
+56,What is the component of the title bottom the journal title that is top the 8 journal title?,"Abstract
+",two_hop.json
+57,There is a journal title that is bottom the journal title that is top the 8 journal title; what component is it?,"Abstract
+",two_hop.json
+58,The journal title that is top the title that is bottom the 7 component is what component?,"Tissue localization of collagenase and leucine aminopeptidase in the
+bovine filarial parasite Setaria cervi
+",two_hop.json
+59,There is a title that is top the title bottom the 7 component; what is its component?,"Tissue localization of collagenase and leucine aminopeptidase in the
+bovine filarial parasite Setaria cervi
+",two_hop.json
+60,What is the title that is bottom the journal title top the 1 component made of?,journal,two_hop.json
+61,What source is the title bottom the text top the 1 component?,journal,two_hop.json
+62,The title top the text that is top the 1 component is made of what source?,journal,two_hop.json
+63,The 2 component that is bottom the text that is top the 1 component is made of what source?,journal,two_hop.json
+64,What source is the component top the text top the 1 component?,journal,two_hop.json
+65,What is the source of the title bottom the title that is top the 1 component?,journal,two_hop.json
+66,There is a title that is bottom the journal text that is top the 1 component; what is its source?,journal,two_hop.json
+67,What source is the component that is top the journal text that is top the 1 component?,journal,two_hop.json
+68,What is the source of the title that is top the journal text that is top the 1 component?,journal,two_hop.json
+69,The 4 text that is bottom the journal text that is top the 1 component is made of what source?,journal,two_hop.json
+70,How many texts are bottom-left the 2 text?,No (we cannot find the thing meet the requirement),one_hop.json
+71,There is a 2 text; what number of titles are bottom-right it?,No (we cannot find the thing meet the requirement),one_hop.json
+72,How many components are bottom-left the 2 text?,No (we cannot find the thing meet the requirement),one_hop.json
+73,There is a 2 text; how many texts are right it?,No (we cannot find the thing meet the requirement),one_hop.json
+74,There is a 2 text; how many texts are bottom-right it?,No (we cannot find the thing meet the requirement),one_hop.json
+75,What number of journal texts are top the 2 text?,The number is 5,one_hop.json
+76,What number of titles are top-right the 2 text?,No (we cannot find the thing meet the requirement),one_hop.json
+77,What number of journal texts are bottom the 2 text?,"It is only one, which is text 2",one_hop.json
+78,How many journal texts are left the 2 text?,No (we cannot find the thing meet the requirement),one_hop.json
+79,What number of journal components are bottom-left the 2 text?,No (we cannot find the thing meet the requirement),one_hop.json
+80,There is a 3 journal component; are there any 4 texts top-left it?,No (we cannot find the thing meet the requirement),one_hop.json
+81,There is a 3 journal component; are there any 8 journal titles left it?,No (we cannot find the thing meet the requirement),one_hop.json
+82,Are there any titles bottom-left the 3 journal component?,No (we cannot find the thing meet the requirement),one_hop.json
+83,There is a 3 journal component; are there any 0 components left it?,No (we cannot find the thing meet the requirement),one_hop.json
+84,There is a 3 journal component; are there any 7 journal titles top-right it?,No (we cannot find the thing meet the requirement),one_hop.json
+85,There is a 3 journal component; are there any 3 texts bottom-left it?,No (we cannot find the thing meet the requirement),one_hop.json
+86,Are there any 1 texts bottom-left the 3 journal component?,No (we cannot find the thing meet the requirement),one_hop.json
+87,There is a 3 journal component; are there any journal texts top-right it?,No (we cannot find the thing meet the requirement),one_hop.json
+88,There is a 3 journal component; are there any 3 components bottom-right it?,No (we cannot find the thing meet the requirement),one_hop.json
+89,Are there any 0 journal texts left the 3 journal component?,No (we cannot find the thing meet the requirement),one_hop.json
+90,What component is the 0 journal text that is bottom-left the 0 component?,No (we cannot find the thing meet the requirement),one_hop.json
+91,There is a 1 journal component that is top-right the 0 component; what is its component?,No (we cannot find the thing meet the requirement),one_hop.json
+92,What component is the text that is right the 0 component?,No (we cannot find the thing meet the requirement),one_hop.json
+93,What component is the journal component that is right the 0 component?,No (we cannot find the thing meet the requirement),one_hop.json
+94,There is a journal component that is top-right the 0 component; what component is it?,No (we cannot find the thing meet the requirement),one_hop.json
+95,There is a 6 journal component that is bottom-right the 0 component; what component is it?,No (we cannot find the thing meet the requirement),one_hop.json
+96,There is a 7 title that is right the 0 component; what is its component?,No (we cannot find the thing meet the requirement),one_hop.json
+97,There is a 3 text that is left the 0 component; what is its component?,No (we cannot find the thing meet the requirement),one_hop.json
+98,There is a text top-right the 0 component; what component is it?,No (we cannot find the thing meet the requirement),one_hop.json
+99,The 1 text left the 0 component is what component?,No (we cannot find the thing meet the requirement),one_hop.json
+100,There is a journal component top the 6 journal text; what is it resources of?,journal,one_hop.json
+101,What resources is the title that is top the 6 journal text?,journal,one_hop.json
+102,What is the title that is bottom the 6 journal text made of?,journal,one_hop.json
+103,There is a component top the 6 journal text; what resources is it?,journal,one_hop.json
+104,What resources is the journal title that is top the 6 journal text?,journal,one_hop.json
+105,There is a journal title bottom the 6 journal text; what is its resources?,journal,one_hop.json
+106,There is a text that is top the 1 text; what is it resources of?,journal,one_hop.json
+107,There is a title top the 1 text; what is it resources of?,journal,one_hop.json
+108,What resources is the title bottom the 1 text?,journal,one_hop.json
+109,There is a journal title bottom the 1 text; what resources is it?,journal,one_hop.json
+110,What parent-child relationship is the journal title top the 8 journal component?,child,one_hop.json
+111,What is the parent-child relationship of the title top the 8 journal component?,child,one_hop.json
+112,What parent-child relationship is the journal title that is top the 6 journal component?,child,one_hop.json
+113,What is the parent-child relationship of the journal component that is top the 6 journal component?,child,one_hop.json
+114,What is the parent-child relationship of the title top the 6 journal component?,child,one_hop.json
+115,What is the parent-child relationship of the component that is top the 6 journal component?,child,one_hop.json
+116,What is the parent-child relationship of the journal text that is top the 1 text?,child,one_hop.json
+117,What parent-child relationship is the journal title that is top the 1 text?,child,one_hop.json
+118,What is the parent-child relationship of the text top the 1 text?,child,one_hop.json
+119,What parent-child relationship is the title top the 1 text?,child,one_hop.json
+120,"Does there exist components are bottom-left the 7 journal title and bottom the 3 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+121,"Does there exist texts are both bottom-left the 7 journal title and bottom the 3 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+122,"Does there exist journal components are both bottom-left the 7 journal title and bottom the 3 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+123,"Does there exist journal texts are bottom-left the 7 journal title and bottom the 3 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+124,"Does there exist components are top the 7 journal title and bottom the 3 journal component? If more than one, what is the total count?","Yes, it is ",single_and.json
+125,"Does there exist texts are top the 7 journal title and bottom the 3 journal component? If more than one, what is the total count?","Yes, it is ",single_and.json
+126,"Does there exist journal components are top the 7 journal title and bottom the 3 journal component? If more than one, what is the total count?","Yes, it is ",single_and.json
+127,"Does there exist journal texts are top the 7 journal title and bottom the 3 journal component? If more than one, what is the total count?","Yes, it is ",single_and.json
+128,"Does there exist titles are top-left the 7 journal title and bottom the 3 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+129,"Does there exist journal components are both top-left the 7 journal title and bottom the 3 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+130,There is a journal text that is both right the 2 text and right the 4 journal component; what component is it?,text 3,single_and.json
+131,There is a component that is both right the 2 text and right the 4 journal component; what is its component?,text 3,single_and.json
+132,The journal component that is right the 2 text and right the 4 journal component is what component?,text 3,single_and.json
+133,What is the component of the text that is both right the 2 text and right the 4 journal component?,text 3,single_and.json
+134,The component that is both left the 7 journal title and right the 4 journal component is what component?,"Methods
+",single_and.json
+135,What component is the journal component that is left the 7 journal title and right the 4 journal component?,"Methods
+",single_and.json
+136,What component is the component that is both left the 7 title and right the 4 journal component?,"Methods
+",single_and.json
+137,What component is the journal component that is left the 7 title and right the 4 journal component?,"Methods
+",single_and.json
+138,What component is the component that is both right the 2 journal text and right the 4 journal component?,text 3,single_and.json
+139,There is a journal component that is both right the 2 journal text and right the 4 journal component; what is its component?,text 3,single_and.json
+140,What is the sources of the component that is top-left the 0 component and left the 3 text?,journal,single_and.json
+141,There is a component that is both left the 0 component and left the 3 text; what is its sources?,journal,single_and.json
+142,There is a text that is left the 0 component and left the 3 text; what material is it made of?,journal,single_and.json
+143,What is the sources of the component that is top the 4 journal text and left the 3 text?,journal,single_and.json
+144,What sources is the component that is both top-left the 0 text and left the 3 text?,journal,single_and.json
+145,What is the sources of the text that is left the 0 text and left the 3 text?,journal,single_and.json
+146,What is the sources of the component that is left the 0 text and left the 3 text?,journal,single_and.json
+147,What is the component that is top-left the 8 journal title and left the 3 text made of?,journal,single_and.json
+148,There is a component that is both left the 5 journal component and left the 3 text; what sources is it?,journal,single_and.json
+149,There is a component that is both bottom-left the 5 journal component and left the 3 text; what sources is it?,journal,single_and.json
+150,There is a journal component that is bottom the 8 journal title; Is 6 journal components bottom-left it?,No (we cannot find the thing meet the requirement),two_hop.json
+151,Is 6 journal texts top-left the journal component that is bottom the 8 journal title?,No (we cannot find the thing meet the requirement),two_hop.json
+152,Is 2 journal texts bottom-left the journal component that is bottom the 8 journal title?,No (we cannot find the thing meet the requirement),two_hop.json
+153,Is titles left the journal component that is bottom the 8 journal title?,No (we cannot find the thing meet the requirement),two_hop.json
+154,There is a journal component that is bottom the 8 journal title; Is 5 journal texts bottom-right it?,No (we cannot find the thing meet the requirement),two_hop.json
+155,There is a journal component bottom the 8 journal title; Is 0 texts bottom-left it?,No (we cannot find the thing meet the requirement),two_hop.json
+156,Is 5 journal texts left the journal component bottom the 8 journal title?,No (we cannot find the thing meet the requirement),two_hop.json
+157,Is components right the journal component bottom the 8 journal title?,No (we cannot find the thing meet the requirement),two_hop.json
+158,There is a journal component that is bottom the 8 journal title; Is 8 components top-right it?,No (we cannot find the thing meet the requirement),two_hop.json
+159,There is a journal component that is bottom the 8 journal title; Is 1 journal components top it?,No (we cannot find the thing meet the requirement),two_hop.json
+160,Are there 3 texts that are bottom-right the component bottom-left the 3 journal text?,No (we cannot find the thing meet the requirement),two_hop.json
+161,There is a component bottom-left the 3 journal text; is there a 0 component left it?,No (we cannot find the thing meet the requirement),two_hop.json
+162,Is there a 9 component that is bottom-left the component bottom-left the 3 journal text?,No (we cannot find the thing meet the requirement),two_hop.json
+163,There is a component bottom-left the 3 journal text; is there a 8 title that is bottom-left it?,No (we cannot find the thing meet the requirement),two_hop.json
+164,Is there a 4 text top-right the component bottom-left the 3 journal text?,No (we cannot find the thing meet the requirement),two_hop.json
+165,There is a component that is bottom-left the 3 journal text; is there a journal component that is top-left it?,No (we cannot find the thing meet the requirement),two_hop.json
+166,There is a component bottom-left the 3 journal text; is there a 4 journal component top it?,Yes,two_hop.json
+167,There is a component that is bottom-left the 3 journal text; are there any 1 journal components left it?,No (we cannot find the thing meet the requirement),two_hop.json
+168,Are there journal titles that are bottom-right the component that is bottom-left the 3 journal text?,No (we cannot find the thing meet the requirement),two_hop.json
+169,Are there 0 journal texts that are right the component that is bottom-left the 3 journal text?,Yes,two_hop.json
+170,What component is the text left the journal title right the 2 component?,text 2,two_hop.json
+171,What component is the text that is right the journal title right the 2 component?,text 5,two_hop.json
+172,What component is the journal text left the journal title right the 2 component?,text 2,two_hop.json
+173,What component is the component right the journal title right the 2 component?,text 5,two_hop.json
+174,The journal text that is right the journal title right the 2 component is what component?,text 5,two_hop.json
+175,What is the component of the journal component that is right the journal title that is right the 2 component?,text 5,two_hop.json
+176,The component that is left the journal title that is right the 2 component is what component?,text 2,two_hop.json
+177,What is the component of the journal component that is left the journal title that is right the 2 component?,text 2,two_hop.json
+178,There is a component that is right the title right the 2 component; what is its component?,text 5,two_hop.json
+179,What is the component of the journal text that is left the title that is right the 2 component?,text 2,two_hop.json
+180,What material is the title right the text top-left the 8 component made of?,journal,two_hop.json
+181,There is a title right the journal text that is top-left the 8 component; what is it made of?,journal,two_hop.json
+182,There is a title top-left the component that is bottom the 8 component; what is it made of?,journal,two_hop.json
+183,What source is the text top-left the component that is bottom the 8 component?,journal,two_hop.json
+184,There is a text that is top the component left the 8 component; what is it made of?,journal,two_hop.json
+185,The component that is top-right the component that is left the 8 component is made of what source?,journal,two_hop.json
+186,There is a component that is bottom the component that is left the 8 component; what is its source?,journal,two_hop.json
+187,The title top the component left the 8 component is made of what source?,journal,two_hop.json
+188,There is a text that is bottom the component left the 8 component; what is it made of?,journal,two_hop.json
+189,There is a text top-right the component that is left the 8 component; what is its source?,journal,two_hop.json
+190,There is a 3 component; what number of components are top-left it?,"It is only one, which is text 3",one_hop.json
+191,How many texts are left the 3 component?,The number is 2,one_hop.json
+192,How many journal components are top-left the 3 component?,"It is only one, which is text 3",one_hop.json
+193,There is a 3 component; how many journal components are bottom it?,The number is 4,one_hop.json
+194,There is a 3 component; what number of titles are top it?,No (we cannot find the thing meet the requirement),one_hop.json
+195,There is a 3 component; what number of texts are top it?,"It is only one, which is text 3",one_hop.json
+196,There is a 3 component; how many journal texts are bottom it?,The number is 2,one_hop.json
+197,There is a 3 component; what number of journal texts are bottom-left it?,"It is only one, which is text 3",one_hop.json
+198,How many journal components are left the 3 component?,The number is 2,one_hop.json
+199,There is a 3 component; how many components are right it?,No (we cannot find the thing meet the requirement),one_hop.json
+200,There is a 1 journal component; are there any 8 components bottom-right it?,No (we cannot find the thing meet the requirement),one_hop.json
+201,There is a 1 journal component; are there any 4 components right it?,No (we cannot find the thing meet the requirement),one_hop.json
+202,Are there any 7 components bottom-right the 1 journal component?,No (we cannot find the thing meet the requirement),one_hop.json
+203,Are there any 6 journal texts top-right the 1 journal component?,"Yes, It is text 1",one_hop.json
+204,There is a 1 journal component; are there any journal texts left it?,No (we cannot find the thing meet the requirement),one_hop.json
+205,There is a 1 journal component; are there any components left it?,No (we cannot find the thing meet the requirement),one_hop.json
+206,There is a 1 journal component; are there any 2 texts bottom-right it?,No (we cannot find the thing meet the requirement),one_hop.json
+207,There is a 1 journal component; are there any 1 texts top-left it?,No (we cannot find the thing meet the requirement),one_hop.json
+208,Are there any 8 titles bottom-right the 1 journal component?,No (we cannot find the thing meet the requirement),one_hop.json
+209,There is a 1 journal component; are there any 3 components top-right it?,"Yes, It is text 1",one_hop.json
+210,There is a 2 component that is bottom-right the 2 journal text; what is its component?,No (we cannot find the thing meet the requirement),one_hop.json
+211,What is the component of the 8 journal component that is bottom-left the 2 journal text?,No (we cannot find the thing meet the requirement),one_hop.json
+212,There is a 6 journal component that is bottom the 2 journal text; what component is it?,No (we cannot find the thing meet the requirement),one_hop.json
+213,There is a 7 journal component that is top the 2 journal text; what component is it?,No (we cannot find the thing meet the requirement),one_hop.json
+214,There is a 6 component bottom-left the 2 journal text; what is its component?,No (we cannot find the thing meet the requirement),one_hop.json
+215,There is a 0 component that is bottom the 2 journal text; what is its component?,No (we cannot find the thing meet the requirement),one_hop.json
+216,The 7 journal component that is bottom-right the 2 journal text is what component?,"Yes, It is text 1",one_hop.json
+217,The 4 journal component that is bottom-left the 2 journal text is what component?,No (we cannot find the thing meet the requirement),one_hop.json
+218,There is a 1 journal text top the 2 journal text; what component is it?,No (we cannot find the thing meet the requirement),one_hop.json
+219,The component bottom-right the 2 journal text is what component?,"Yes, It is text 1",one_hop.json
+220,What is the journal component that is bottom the 7 journal component made of?,journal,one_hop.json
+221,There is a 4 journal text left the 7 journal component; what is its resources?,journal,one_hop.json
+222,There is a text that is top-left the 7 journal component; what is it resources of?,journal,one_hop.json
+223,What is the resources of the component bottom the 7 journal component?,journal,one_hop.json
+224,What is the resources of the journal title that is left the 7 journal component?,journal,one_hop.json
+225,What is the resources of the journal text top-left the 7 journal component?,journal,one_hop.json
+226,There is a text that is bottom-left the 7 journal component; what is its resources?,journal,one_hop.json
+227,There is a journal text bottom-left the 7 journal component; what resources is it?,journal,one_hop.json
+228,There is a journal title that is top-left the 7 journal component; what is it resources of?,journal,one_hop.json
+229,What is the resources of the component bottom-left the 7 journal component?,journal,one_hop.json
+230,What parent-child relationship is the text that is top-left the 8 journal component?,child,one_hop.json
+231,What is the parent-child relationship of the component bottom-left the 8 journal component?,child,one_hop.json
+232,What is the parent-child relationship of the journal component that is left the 8 journal component?,child,one_hop.json
+233,What parent-child relationship is the text bottom-left the 8 journal component?,child,one_hop.json
+234,What is the parent-child relationship of the journal text that is top-left the 8 journal component?,child,one_hop.json
+235,What is the parent-child relationship of the journal text that is bottom-left the 8 journal component?,child,one_hop.json
+236,What is the parent-child relationship of the journal title that is top-left the 8 journal component?,parent,one_hop.json
+237,What parent-child relationship is the title top-left the 8 journal component?,parent,one_hop.json
+238,What parent-child relationship is the journal component that is bottom-left the 8 journal component?,child,one_hop.json
+239,What parent-child relationship is the component left the 8 journal component?,child,one_hop.json
+240,"Does there exist titles are both right the 11 journal component and top-left the 7 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+241,"Does there exist journal components are both right the 11 journal component and top-left the 7 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+242,"Does there exist journal titles are right the 11 journal component and top-left the 7 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+243,"Does there exist components are right the 11 journal component and top-left the 7 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+244,"Does there exist texts are right the 11 journal component and top-left the 7 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+245,"Does there exist journal texts are right the 11 journal component and top-left the 7 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+246,"Does there exist journal components are both bottom the 11 journal component and top-left the 7 journal component? If more than one, what is the total count?",2,single_and.json
+247,"Does there exist 1 journal components are bottom the 11 journal component and top-left the 7 journal component? If more than one, what is the total count?","Yes, it is ",single_and.json
+248,"Does there exist 1 components are bottom the 11 journal component and top-left the 7 journal component? If more than one, what is the total count?","Yes, it is ",single_and.json
+249,"Does there exist components are both bottom the 11 journal component and top-left the 7 journal component? If more than one, what is the total count?",2,single_and.json
+250,There is a journal component that is both top the 10 title and bottom-left the 9 title; what is its component?,text 6,single_and.json
+251,The component that is top the 10 title and bottom-left the 9 title is what component?,text 6,single_and.json
+252,The journal component that is both top the 10 journal title and bottom-left the 9 title is what component?,text 6,single_and.json
+253,The component that is top the 10 journal title and bottom-left the 9 title is what component?,text 6,single_and.json
+254,The journal component that is top the 10 journal component and bottom-left the 9 title is what component?,text 6,single_and.json
+255,The component that is top the 10 journal component and bottom-left the 9 title is what component?,text 6,single_and.json
+256,What is the component of the component that is left the 7 journal component and bottom-left the 9 title?,text 1,single_and.json
+257,What component is the journal component that is left the 7 journal component and bottom-left the 9 title?,text 1,single_and.json
+258,There is a component that is left the 7 text and bottom-left the 9 title; what component is it?,text 1,single_and.json
+259,There is a journal component that is left the 7 text and bottom-left the 9 title; what component is it?,text 1,single_and.json
+260,What is the sources of the text that is top the 8 journal component and bottom the 9 component?,journal,single_and.json
+261,There is a component that is both top the 8 journal component and bottom the 9 component; what is it made of?,journal,single_and.json
+262,What is the sources of the component that is top-right the 1 text and bottom the 9 component?,journal,single_and.json
+263,There is a text that is both top-right the 1 text and bottom the 9 component; what is it made of?,journal,single_and.json
+264,What sources is the component that is top the 7 text and bottom the 9 component?,journal,single_and.json
+265,What is the sources of the text that is both top the 7 text and bottom the 9 component?,journal,single_and.json
+266,There is a component that is left the 7 text and bottom the 9 component; what is it made of?,journal,single_and.json
+267,What is the component that is both right the 11 journal table and bottom the 9 component made of?,journal,single_and.json
+268,What is the sources of the text that is both right the 11 journal table and bottom the 9 component?,journal,single_and.json
+269,There is a text that is both top the 7 journal text and bottom the 9 component; what is its sources?,journal,single_and.json
+270,Is 11 tables bottom-left the journal text that is left the 8 journal component?,No (we cannot find the thing meet the requirement),two_hop.json
+271,Is 1 texts right the journal text that is left the 8 journal component?,No (we cannot find the thing meet the requirement),two_hop.json
+272,Is 7 texts bottom the journal text left the 8 journal component?,No (we cannot find the thing meet the requirement),two_hop.json
+273,There is a journal text that is left the 8 journal component; Is 5 components bottom-left it?,No (we cannot find the thing meet the requirement),two_hop.json
+274,There is a journal text left the 8 journal component; Is 7 texts bottom-right it?,No (we cannot find the thing meet the requirement),two_hop.json
+275,There is a journal text left the 8 journal component; Is 8 journal titles top it?,No (we cannot find the thing meet the requirement),two_hop.json
+276,There is a journal text that is left the 8 journal component; Is 0 components right it?,Yes,two_hop.json
+277,There is a journal text left the 8 journal component; Is 7 components top-left it?,No (we cannot find the thing meet the requirement),two_hop.json
+278,There is a journal text left the 8 journal component; Is 1 journal texts bottom-right it?,No (we cannot find the thing meet the requirement),two_hop.json
+279,There is a journal text left the 8 journal component; Is 0 journal texts right it?,Yes,two_hop.json
+280,Is there a 10 component that is top the journal component that is right the 5 table_caption?,No (we cannot find the thing meet the requirement),two_hop.json
+281,Are there 6 journal texts left the journal component that is right the 5 table_caption?,No (we cannot find the thing meet the requirement),two_hop.json
+282,There is a journal component right the 5 table_caption; are there any 9 journal titles that are top-right it?,No (we cannot find the thing meet the requirement),two_hop.json
+283,There is a journal component that is right the 5 table_caption; is there a 1 journal component that is top it?,No (we cannot find the thing meet the requirement),two_hop.json
+284,Are there 2 texts that are top-left the journal component right the 5 table_caption?,No (we cannot find the thing meet the requirement),two_hop.json
+285,There is a journal component right the 5 table_caption; is there a 11 journal component bottom it?,No (we cannot find the thing meet the requirement),two_hop.json
+286,Are there 3 components that are top-left the journal component right the 5 table_caption?,No (we cannot find the thing meet the requirement),two_hop.json
+287,There is a journal component that is right the 5 table_caption; is there a 6 journal text that is bottom-left it?,Yes,two_hop.json
+288,There is a journal component that is right the 5 table_caption; is there a 7 journal text bottom-left it?,No (we cannot find the thing meet the requirement),two_hop.json
+289,Is there a 6 text top-right the journal component that is right the 5 table_caption?,No (we cannot find the thing meet the requirement),two_hop.json
+290,What component is the component that is top-left the title right the 11 table?,"Table I: Tissue Distribution of Collagenase and LAP in S. cerve.
+",two_hop.json
+291,There is a journal text that is top the title that is right the 11 table; what component is it?,text 4,two_hop.json
+292,There is a title bottom-left the title that is right the 11 table; what component is it?,"Immunohistochemistry (IHC) of collagenase
+",two_hop.json
+293,The journal component that is top-left the title right the 11 table is what component?,"Table I: Tissue Distribution of Collagenase and LAP in S. cerve.
+",two_hop.json
+294,What component is the journal title that is bottom-left the title right the 11 table?,"Immunohistochemistry (IHC) of collagenase
+",two_hop.json
+295,The journal title bottom the title that is right the 11 table is what component?,"Results
+",two_hop.json
+296,There is a journal component top the title right the 11 table; what is its component?,text 4,two_hop.json
+297,There is a component that is top the title that is right the 11 table; what is its component?,text 4,two_hop.json
+298,What is the component of the title that is bottom the title that is right the 11 table?,"Results
+",two_hop.json
+299,The journal component left the title right the 11 table is what component?,table 11,two_hop.json
+300,What material is the title bottom the component that is left the 9 component made of?,journal,two_hop.json
+301,What material is the title bottom-right the component that is left the 9 component made of?,journal,two_hop.json
+302,What material is the title that is right the component left the 9 component made of?,journal,two_hop.json
+303,There is a component that is top the component that is left the 9 component; what is it made of?,journal,two_hop.json
+304,There is a title bottom-left the journal component top the 9 component; what is it made of?,journal,two_hop.json
+305,The title that is bottom-left the component that is top the 9 component is made of what source?,journal,two_hop.json
+306,What source is the 8 component bottom-right the component top-left the 9 component?,journal,two_hop.json
+307,There is a text right the component top-left the 9 component; what is its source?,journal,two_hop.json
+308,What is the source of the title that is bottom the component top-left the 9 component?,journal,two_hop.json
+309,The component that is right the component that is top-left the 9 component is made of what source?,journal,two_hop.json
+310,How many journal texts are bottom-right the 7 component?,No (we cannot find the thing meet the requirement),one_hop.json
+311,What number of titles are left the 7 component?,"It is only one, which is Distribution of collagenase in S. cerv
+",one_hop.json
+312,How many journal titles are top-right the 7 component?,No (we cannot find the thing meet the requirement),one_hop.json
+313,There is a 7 component; how many journal table_captions are top-left it?,"It is only one, which is Distribution of collagenase in S. cerv
+",one_hop.json
+314,How many journal components are top-right the 7 component?,No (we cannot find the thing meet the requirement),one_hop.json
+315,There is a 7 component; how many journal tables are left it?,No (we cannot find the thing meet the requirement),one_hop.json
+316,How many components are top the 7 component?,The number is 3,one_hop.json
+317,What number of journal components are right the 7 component?,No (we cannot find the thing meet the requirement),one_hop.json
+318,There is a 7 component; how many journal components are top-left it?,The number is 4,one_hop.json
+319,How many journal table_captions are right the 7 component?,No (we cannot find the thing meet the requirement),one_hop.json
+320,There is a 8 title; are there any 6 components left it?,No (we cannot find the thing meet the requirement),one_hop.json
+321,Are there any 5 components bottom the 8 title?,No (we cannot find the thing meet the requirement),one_hop.json
+322,There is a 8 title; are there any 4 texts left it?,No (we cannot find the thing meet the requirement),one_hop.json
+323,There is a 8 title; are there any 9 journal components bottom it?,No (we cannot find the thing meet the requirement),one_hop.json
+324,There is a 8 title; are there any 10 journal components top-left it?,"Yes, It is Results
+",one_hop.json
+325,Are there any 8 titles bottom-right the 8 title?,No (we cannot find the thing meet the requirement),one_hop.json
+326,There is a 8 title; are there any journal texts bottom it?,"Yes, It is Results
+",one_hop.json
+327,There is a 8 title; are there any 5 journal table_captions bottom-left it?,No (we cannot find the thing meet the requirement),one_hop.json
+328,Are there any 5 journal table_captions right the 8 title?,No (we cannot find the thing meet the requirement),one_hop.json
+329,There is a 8 title; are there any 5 components top-left it?,"Yes, It is Results
+",one_hop.json
+330,What component is the 0 journal text top-right the 11 table?,No (we cannot find the thing meet the requirement),one_hop.json
+331,The 10 journal title that is left the 11 table is what component?,No (we cannot find the thing meet the requirement),one_hop.json
+332,There is a 5 component top-left the 11 table; what component is it?,No (we cannot find the thing meet the requirement),one_hop.json
+333,What is the component of the 4 journal text bottom-right the 11 table?,No (we cannot find the thing meet the requirement),one_hop.json
+334,What component is the table_caption top the 11 table?,"Yes, It is text 1",one_hop.json
+335,There is a 1 component top-right the 11 table; what component is it?,No (we cannot find the thing meet the requirement),one_hop.json
+336,What is the component of the 8 title that is bottom-right the 11 table?,"Yes, It is text 1",one_hop.json
+337,There is a 5 journal component that is top the 11 table; what component is it?,"Yes, It is text 1",one_hop.json
+338,There is a 5 journal component bottom-left the 11 table; what component is it?,No (we cannot find the thing meet the requirement),one_hop.json
+339,What is the component of the 2 journal text that is top-left the 11 table?,No (we cannot find the thing meet the requirement),one_hop.json
+340,What is the resources of the title that is bottom-left the 4 text?,journal,one_hop.json
+341,There is a journal title that is bottom-left the 4 text; what resources is it?,journal,one_hop.json
+342,There is a journal text left the 0 journal text; what is its resources?,journal,one_hop.json
+343,There is a journal text that is top-left the 0 journal text; what resources is it?,journal,one_hop.json
+344,There is a title top-left the 0 journal text; what is it resources of?,journal,one_hop.json
+345,What resources is the text left the 0 journal text?,journal,one_hop.json
+346,What is the journal title that is top-left the 0 journal text made of?,journal,one_hop.json
+347,There is a component left the 0 journal text; what is its resources?,journal,one_hop.json
+348,There is a journal component left the 0 journal text; what resources is it?,journal,one_hop.json
+349,There is a text that is top-left the 0 journal text; what is its resources?,journal,one_hop.json
+350,What is the parent-child relationship of the text bottom-left the 3 text?,child,one_hop.json
+351,What is the parent-child relationship of the journal text left the 3 text?,child,one_hop.json
+352,What parent-child relationship is the journal title bottom the 3 text?,parent,one_hop.json
+353,What parent-child relationship is the component bottom-left the 3 text?,child,one_hop.json
+354,What parent-child relationship is the journal component bottom-left the 3 text?,child,one_hop.json
+355,What is the parent-child relationship of the title that is top the 3 text?,parent,one_hop.json
+356,What is the parent-child relationship of the journal text top the 3 text?,child,one_hop.json
+357,What parent-child relationship is the journal text that is bottom-left the 3 text?,child,one_hop.json
+358,What is the parent-child relationship of the title bottom the 3 text?,parent,one_hop.json
+359,What parent-child relationship is the journal title top the 3 text?,parent,one_hop.json
+360,"Does there exist journal components are both bottom the 7 journal title and right the 3 component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+361,"Does there exist components are both bottom the 7 journal title and right the 3 component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+362,"Does there exist texts are bottom the 7 journal title and right the 3 component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+363,"Does there exist journal texts are both bottom the 7 journal title and right the 3 component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+364,"Does there exist texts are top the 7 journal title and right the 3 component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+365,"Does there exist journal components are top the 7 journal title and right the 3 component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+366,"Does there exist journal texts are both top the 7 journal title and right the 3 component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+367,"Does there exist components are both top the 7 journal title and right the 3 component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+368,"Does there exist journal components are top-right the 7 journal title and right the 3 component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+369,"Does there exist texts are both top-right the 7 journal title and right the 3 component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+370,There is a journal text that is top-left the 0 journal component and bottom the 1 journal component; what is its component?,text 5,single_and.json
+371,There is a text that is both top-left the 0 journal component and bottom the 1 journal component; what is its component?,text 5,single_and.json
+372,The journal text that is both right the 7 journal component and bottom the 1 journal component is what component?,text 5,single_and.json
+373,The component that is right the 7 journal component and bottom the 1 journal component is what component?,text 5,single_and.json
+374,The journal component that is right the 7 journal component and bottom the 1 journal component is what component?,text 5,single_and.json
+375,The text that is both right the 7 journal component and bottom the 1 journal component is what component?,text 5,single_and.json
+376,The journal text that is top-left the 0 journal text and bottom the 1 journal component is what component?,text 5,single_and.json
+377,The text that is both top-left the 0 journal text and bottom the 1 journal component is what component?,text 5,single_and.json
+378,What is the component of the text that is top the 3 component and bottom the 1 journal component?,text 5,single_and.json
+379,What is the component of the journal text that is top the 3 component and bottom the 1 journal component?,text 5,single_and.json
+380,What sources is the text that is both bottom the 7 component and left the 4 component?,journal,single_and.json
+381,What sources is the component that is bottom the 7 component and left the 4 component?,journal,single_and.json
+382,What is the sources of the text that is both right the 7 component and left the 4 component?,journal,single_and.json
+383,What is the sources of the component that is right the 7 component and left the 4 component?,journal,single_and.json
+384,There is a component that is both top the 7 component and left the 4 component; what sources is it?,journal,single_and.json
+385,There is a component that is bottom the 5 component and left the 4 component; what material is it made of?,journal,single_and.json
+386,There is a text that is both bottom the 5 component and left the 4 component; what is its sources?,journal,single_and.json
+387,What sources is the component that is both top the 5 component and left the 4 component?,journal,single_and.json
+388,There is a text that is both left the 0 journal text and left the 4 component; what sources is it?,journal,single_and.json
+389,There is a component that is left the 0 journal text and left the 4 component; what is it made of?,journal,single_and.json
+390,There is a text that is left the 2 journal component; Is 1 journal texts left it?,No (we cannot find the thing meet the requirement),two_hop.json
+391,There is a text that is left the 2 journal component; Is 8 titles bottom it?,No (we cannot find the thing meet the requirement),two_hop.json
+392,There is a text that is left the 2 journal component; Is journal texts left it?,No (we cannot find the thing meet the requirement),two_hop.json
+393,There is a text left the 2 journal component; Is 4 components right it?,Yes,two_hop.json
+394,Is 6 journal components bottom the text that is left the 2 journal component?,Yes,two_hop.json
+395,Is 3 journal texts top-right the text left the 2 journal component?,No (we cannot find the thing meet the requirement),two_hop.json
+396,Is 2 journal texts bottom-left the text left the 2 journal component?,No (we cannot find the thing meet the requirement),two_hop.json
+397,Is 0 components top-right the text that is left the 2 journal component?,No (we cannot find the thing meet the requirement),two_hop.json
+398,There is a text left the 2 journal component; Is 7 titles bottom-left it?,No (we cannot find the thing meet the requirement),two_hop.json
+399,Is 5 components top the text left the 2 journal component?,No (we cannot find the thing meet the requirement),two_hop.json
+400,There is a journal component right the 6 journal component; are there any 5 texts left it?,No (we cannot find the thing meet the requirement),two_hop.json
+401,Is there a 4 component right the journal component that is right the 6 journal component?,No (we cannot find the thing meet the requirement),two_hop.json
+402,There is a journal component right the 6 journal component; are there any 6 components that are bottom it?,No (we cannot find the thing meet the requirement),two_hop.json
+403,There is a journal component that is right the 6 journal component; are there any 0 components that are top-left it?,No (we cannot find the thing meet the requirement),two_hop.json
+404,There is a journal component right the 6 journal component; are there any 6 texts that are top it?,No (we cannot find the thing meet the requirement),two_hop.json
+405,Is there a 0 text left the journal component that is right the 6 journal component?,No (we cannot find the thing meet the requirement),two_hop.json
+406,There is a journal component right the 6 journal component; are there any components that are bottom-right it?,No (we cannot find the thing meet the requirement),two_hop.json
+407,Is there a 2 component that is bottom-left the journal component that is right the 6 journal component?,No (we cannot find the thing meet the requirement),two_hop.json
+408,There is a journal component that is right the 6 journal component; is there a 6 journal component top-right it?,No (we cannot find the thing meet the requirement),two_hop.json
+409,Are there 7 titles that are bottom-right the journal component right the 6 journal component?,No (we cannot find the thing meet the requirement),two_hop.json
+410,There is a text bottom-right the title bottom the 1 journal text; what component is it?,text 0,two_hop.json
+411,What is the component of the journal title that is top the title bottom the 1 journal text?,"Distribution of LAP in S. cervi
+",two_hop.json
+412,What component is the journal text that is bottom-right the title bottom the 1 journal text?,text 0,two_hop.json
+413,There is a journal text that is top-right the title that is bottom the 1 journal text; what is its component?,text 2,two_hop.json
+414,There is a text top the title that is bottom the 1 journal text; what component is it?,text 1,two_hop.json
+415,What is the component of the component that is bottom-right the title bottom the 1 journal text?,text 0,two_hop.json
+416,The component top-right the title bottom the 1 journal text is what component?,text 2,two_hop.json
+417,The journal component bottom-right the title bottom the 1 journal text is what component?,text 0,two_hop.json
+418,What is the component of the text top-right the title that is bottom the 1 journal text?,text 2,two_hop.json
+419,There is a journal component that is top-right the title that is bottom the 1 journal text; what is its component?,text 2,two_hop.json
+420,There is a title that is bottom the component top-left the 4 journal text; what is its source?,journal,two_hop.json
+421,What material is the text right the component top-left the 4 journal text made of?,journal,two_hop.json
+422,The component right the component that is top-left the 4 journal text is made of what source?,journal,two_hop.json
+423,The component right the journal component top-left the 4 journal text is made of what source?,journal,two_hop.json
+424,The text that is right the journal component that is top-left the 4 journal text is made of what source?,journal,two_hop.json
+425,What source is the title bottom the journal component that is top-left the 4 journal text?,journal,two_hop.json
+426,There is a text that is left the component top the 4 journal text; what is its source?,journal,two_hop.json
+427,What source is the title bottom-left the component that is top the 4 journal text?,journal,two_hop.json
+428,There is a title left the component top the 4 journal text; what is its source?,journal,two_hop.json
+429,There is a title left the text that is top the 4 journal text; what is its source?,journal,two_hop.json
+430,There is a 0 text; how many components are left it?,The number is 2,one_hop.json
+431,There is a 0 text; what number of journal texts are top-left it?,The number is 2,one_hop.json
+432,What number of components are top the 0 text?,The number is 2,one_hop.json
+433,What number of journal texts are top-right the 0 text?,No (we cannot find the thing meet the requirement),one_hop.json
+434,How many journal titles are bottom-left the 0 text?,No (we cannot find the thing meet the requirement),one_hop.json
+435,There is a 0 text; what number of journal texts are top it?,The number is 2,one_hop.json
+436,There is a 0 text; how many components are bottom-left it?,No (we cannot find the thing meet the requirement),one_hop.json
+437,What number of journal titles are left the 0 text?,No (we cannot find the thing meet the requirement),one_hop.json
+438,How many titles are top the 0 text?,No (we cannot find the thing meet the requirement),one_hop.json
+439,There is a 0 text; what number of components are bottom-right it?,No (we cannot find the thing meet the requirement),one_hop.json
+440,Are there any 6 journal texts right the 8 component?,No (we cannot find the thing meet the requirement),one_hop.json
+441,There is a 8 component; are there any 7 titles top-left it?,No (we cannot find the thing meet the requirement),one_hop.json
+442,There is a 8 component; are there any 7 journal components top it?,No (we cannot find the thing meet the requirement),one_hop.json
+443,Are there any 0 journal texts top the 8 component?,No (we cannot find the thing meet the requirement),one_hop.json
+444,Are there any 8 journal components bottom-right the 8 component?,No (we cannot find the thing meet the requirement),one_hop.json
+445,Are there any 1 components top-left the 8 component?,No (we cannot find the thing meet the requirement),one_hop.json
+446,There is a 8 component; are there any 8 titles right it?,No (we cannot find the thing meet the requirement),one_hop.json
+447,Are there any 6 journal components bottom the 8 component?,"Yes, It is Distribution of LAP in S. cervi
+",one_hop.json
+448,Are there any 7 journal components top-right the 8 component?,No (we cannot find the thing meet the requirement),one_hop.json
+449,Are there any 5 components top-left the 8 component?,No (we cannot find the thing meet the requirement),one_hop.json
+450,What is the component of the 7 journal component that is left the 8 title?,No (we cannot find the thing meet the requirement),one_hop.json
+451,There is a 4 journal component that is bottom the 8 title; what is its component?,No (we cannot find the thing meet the requirement),one_hop.json
+452,There is a 2 component right the 8 title; what is its component?,"Yes, It is text 1",one_hop.json
+453,What component is the 8 component that is top-left the 8 title?,No (we cannot find the thing meet the requirement),one_hop.json
+454,There is a 5 component that is bottom-left the 8 title; what component is it?,No (we cannot find the thing meet the requirement),one_hop.json
+455,The 0 text top-right the 8 title is what component?,No (we cannot find the thing meet the requirement),one_hop.json
+456,There is a 7 component that is right the 8 title; what is its component?,No (we cannot find the thing meet the requirement),one_hop.json
+457,What component is the 8 journal title that is top-left the 8 title?,No (we cannot find the thing meet the requirement),one_hop.json
+458,There is a 0 text that is bottom-left the 8 title; what is its component?,No (we cannot find the thing meet the requirement),one_hop.json
+459,What component is the 0 journal text bottom-left the 8 title?,No (we cannot find the thing meet the requirement),one_hop.json
+460,There is a journal title that is bottom-left the 2 journal component; what resources is it?,journal,one_hop.json
+461,What is the journal title that is left the 2 journal component made of?,journal,one_hop.json
+462,There is a text left the 2 journal component; what is its resources?,journal,one_hop.json
+463,There is a journal text left the 2 journal component; what is it resources of?,journal,one_hop.json
+464,What is the resources of the 6 component bottom-left the 2 journal component?,journal,one_hop.json
+465,There is a title bottom-left the 2 journal component; what is it resources of?,journal,one_hop.json
+466,There is a title that is left the 2 journal component; what is its resources?,journal,one_hop.json
+467,There is a text that is top-right the 7 journal component; what resources is it?,journal,one_hop.json
+468,What resources is the component that is top-right the 7 journal component?,journal,one_hop.json
+469,What is the journal text that is bottom-right the 7 journal component made of?,journal,one_hop.json
+470,What is the parent-child relationship of the journal component that is bottom-right the 7 title?,child,one_hop.json
+471,What parent-child relationship is the journal text top the 7 title?,child,one_hop.json
+472,What is the parent-child relationship of the journal title top the 7 title?,parent,one_hop.json
+473,What parent-child relationship is the component top-right the 7 title?,child,one_hop.json
+474,What parent-child relationship is the journal text that is bottom-right the 7 title?,child,one_hop.json
+475,What parent-child relationship is the component bottom-right the 7 title?,child,one_hop.json
+476,What is the parent-child relationship of the text that is bottom-right the 7 title?,child,one_hop.json
+477,What is the parent-child relationship of the journal component top-right the 7 title?,child,one_hop.json
+478,What is the parent-child relationship of the 2 journal text that is top-right the 7 title?,child,one_hop.json
+479,What parent-child relationship is the title top the 7 title?,parent,one_hop.json
+480,"Does there exist components are left the 0 component and top the 2 journal text? If more than one, what is the total count?","Yes, it is ",single_and.json
+481,"Does there exist journal components are both left the 0 component and top the 2 journal text? If more than one, what is the total count?","Yes, it is ",single_and.json
+482,"Does there exist journal texts are right the 2 journal component and top the 2 journal text? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+483,"Does there exist journal components are both right the 2 journal component and top the 2 journal text? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+484,"Does there exist texts are right the 2 journal component and top the 2 journal text? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+485,"Does there exist components are right the 2 journal component and top the 2 journal text? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+486,"Does there exist journal texts are right the 2 text and top the 2 journal text? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+487,"Does there exist texts are right the 2 text and top the 2 journal text? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+488,"Does there exist journal components are right the 2 text and top the 2 journal text? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+489,"Does there exist components are right the 2 text and top the 2 journal text? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+490,There is a journal component that is top the 1 text and bottom the 4 journal figure; what component is it?,text 3,single_and.json
+491,There is a component that is top the 1 text and bottom the 4 journal figure; what component is it?,text 3,single_and.json
+492,What component is the journal component that is top the 0 journal text and bottom the 4 journal figure?,text 3,single_and.json
+493,The component that is both top the 0 journal text and bottom the 4 journal figure is what component?,text 3,single_and.json
+494,There is a component that is both top the 1 journal text and bottom the 4 journal figure; what is its component?,text 3,single_and.json
+495,There is a journal component that is both top the 1 journal text and bottom the 4 journal figure; what is its component?,text 3,single_and.json
+496,There is a component that is both top the 1 journal component and bottom the 4 journal figure; what is its component?,text 3,single_and.json
+497,What is the component of the journal component that is both top the 1 journal component and bottom the 4 journal figure?,text 3,single_and.json
+498,The journal component that is top the 0 component and bottom the 4 journal figure is what component?,text 3,single_and.json
+499,There is a component that is top the 0 component and bottom the 4 journal figure; what component is it?,text 3,single_and.json
+500,The component that is both top the 2 journal text and bottom the 3 journal component is made of what sources?,journal,single_and.json
+501,The component that is top the 2 component and bottom the 3 journal component is made of what sources?,journal,single_and.json
+502,There is a component that is top the 2 text and bottom the 3 journal component; what is its sources?,journal,single_and.json
+503,There is a component that is both top the 2 journal component and bottom the 3 journal component; what is it made of?,journal,single_and.json
+504,The component that is bottom the 4 component and top the 1 journal text is made of what sources?,journal,single_and.json
+505,There is a component that is bottom the 4 journal figure and top the 1 journal text; what sources is it?,journal,single_and.json
+506,There is a component that is both bottom the 4 figure and top the 1 journal text; what is its sources?,journal,single_and.json
+507,There is a component that is both bottom the 4 journal component and top the 1 journal text; what is its sources?,journal,single_and.json
+508,The component that is top the 0 text and bottom the 4 journal component is made of what sources?,journal,single_and.json
+509,What is the component that is both top the 1 journal component and bottom the 4 journal component made of?,journal,single_and.json
+510,There is a text right the 2 text; Is journal components top it?,Yes,two_hop.json
+511,Is 2 journal texts top the text right the 2 text?,No (we cannot find the thing meet the requirement),two_hop.json
+512,There is a text that is right the 2 text; Is texts top-right it?,No (we cannot find the thing meet the requirement),two_hop.json
+513,There is a text right the 2 text; Is 1 journal components bottom it?,No (we cannot find the thing meet the requirement),two_hop.json
+514,Is 1 journal components right the text that is right the 2 text?,No (we cannot find the thing meet the requirement),two_hop.json
+515,There is a text right the 2 text; Is journal figures bottom-left it?,No (we cannot find the thing meet the requirement),two_hop.json
+516,Is 3 components bottom the text that is right the 2 text?,No (we cannot find the thing meet the requirement),two_hop.json
+517,Is 4 components top-left the text that is right the 2 text?,No (we cannot find the thing meet the requirement),two_hop.json
+518,There is a text that is right the 2 text; Is journal figures top it?,Yes,two_hop.json
+519,There is a text right the 2 text; Is 0 journal components bottom-right it?,No (we cannot find the thing meet the requirement),two_hop.json
+520,Is there a 0 journal text that is right the figure_caption top the 2 text?,No (we cannot find the thing meet the requirement),two_hop.json
+521,There is a figure_caption that is top the 2 text; is there a 2 component left it?,No (we cannot find the thing meet the requirement),two_hop.json
+522,Is there a journal figure_caption top the figure_caption top the 2 text?,No (we cannot find the thing meet the requirement),two_hop.json
+523,There is a figure_caption top the 2 text; is there a 2 journal text bottom it?,Yes,two_hop.json
+524,There is a figure_caption that is top the 2 text; are there any 4 figures that are top-right it?,No (we cannot find the thing meet the requirement),two_hop.json
+525,Are there figure_captions that are bottom the figure_caption top the 2 text?,No (we cannot find the thing meet the requirement),two_hop.json
+526,There is a figure_caption top the 2 text; is there a 3 figure_caption that is top it?,No (we cannot find the thing meet the requirement),two_hop.json
+527,There is a figure_caption top the 2 text; are there any 3 journal figure_captions top-left it?,No (we cannot find the thing meet the requirement),two_hop.json
+528,Are there journal texts that are top-right the figure_caption top the 2 text?,No (we cannot find the thing meet the requirement),two_hop.json
+529,Is there a 4 journal component bottom-right the figure_caption that is top the 2 text?,No (we cannot find the thing meet the requirement),two_hop.json
+530,What is the component of the journal component that is bottom the journal text top the 2 text?,text 2,two_hop.json
+531,What component is the component right the journal text top the 2 text?,text 0,two_hop.json
+532,There is a journal text that is bottom the journal text that is top the 2 text; what is its component?,text 2,two_hop.json
+533,There is a journal component that is right the journal text that is top the 2 text; what component is it?,text 0,two_hop.json
+534,There is a journal text that is right the journal text top the 2 text; what component is it?,text 0,two_hop.json
+535,The text bottom the journal text that is top the 2 text is what component?,text 2,two_hop.json
+536,There is a component bottom the journal text top the 2 text; what is its component?,text 2,two_hop.json
+537,What is the component of the text that is right the journal text that is top the 2 text?,text 0,two_hop.json
+538,What is the component of the component that is bottom the text top the 2 text?,text 2,two_hop.json
+539,There is a journal component that is bottom the text top the 2 text; what component is it?,text 2,two_hop.json
+540,The component that is right the text bottom the 1 component is made of what source?,journal,two_hop.json
+541,What source is the text that is right the text that is bottom the 1 component?,journal,two_hop.json
+542,What is the text that is top the text that is bottom the 1 component made of?,journal,two_hop.json
+543,There is a text top the journal text that is bottom the 1 component; what is it made of?,journal,two_hop.json
+544,What is the component right the journal text that is bottom the 1 component made of?,journal,two_hop.json
+545,What source is the text that is right the journal text that is bottom the 1 component?,journal,two_hop.json
+546,What is the source of the text that is top the journal component that is bottom the 1 component?,journal,two_hop.json
+547,What source is the text that is right the journal component that is bottom the 1 component?,journal,two_hop.json
+548,There is a component right the journal component bottom the 1 component; what is it made of?,journal,two_hop.json
+549,What material is the component top the journal figure_caption that is top the 1 component made of?,journal,two_hop.json
+550,There is a 2 text; what number of figures are bottom it?,No (we cannot find the thing meet the requirement),one_hop.json
+551,There is a 2 text; how many components are bottom it?,No (we cannot find the thing meet the requirement),one_hop.json
+552,What number of journal components are top the 2 text?,The number is 3,one_hop.json
+553,What number of journal figures are bottom-right the 2 text?,No (we cannot find the thing meet the requirement),one_hop.json
+554,What number of figures are top-left the 2 text?,No (we cannot find the thing meet the requirement),one_hop.json
+555,How many journal texts are top the 2 text?,"It is only one, which is text 2",one_hop.json
+556,How many texts are left the 2 text?,No (we cannot find the thing meet the requirement),one_hop.json
+557,How many journal figure_captions are bottom-left the 2 text?,No (we cannot find the thing meet the requirement),one_hop.json
+558,There is a 2 text; how many journal figures are top-right it?,No (we cannot find the thing meet the requirement),one_hop.json
+559,What number of journal figures are bottom the 2 text?,No (we cannot find the thing meet the requirement),one_hop.json
+560,Are there any 4 journal figures right the 2 journal text?,No (we cannot find the thing meet the requirement),one_hop.json
+561,There is a 2 journal text; are there any figures bottom-right it?,No (we cannot find the thing meet the requirement),one_hop.json
+562,Are there any 0 journal components top-right the 2 journal text?,No (we cannot find the thing meet the requirement),one_hop.json
+563,Are there any 0 journal components left the 2 journal text?,No (we cannot find the thing meet the requirement),one_hop.json
+564,There is a 2 journal text; are there any 0 components right it?,"Yes, It is text 2",one_hop.json
+565,There is a 2 journal text; are there any 0 journal components right it?,"Yes, It is text 2",one_hop.json
+566,There is a 2 journal text; are there any 2 journal texts top it?,No (we cannot find the thing meet the requirement),one_hop.json
+567,Are there any journal figures right the 2 journal text?,No (we cannot find the thing meet the requirement),one_hop.json
+568,There is a 2 journal text; are there any 2 components top-right it?,No (we cannot find the thing meet the requirement),one_hop.json
+569,There is a 2 journal text; are there any journal figure_captions left it?,No (we cannot find the thing meet the requirement),one_hop.json
+570,The 0 component bottom-right the 3 journal component is what component?,No (we cannot find the thing meet the requirement),one_hop.json
+571,What component is the 3 journal figure_caption that is bottom-left the 3 journal component?,No (we cannot find the thing meet the requirement),one_hop.json
+572,There is a 3 figure_caption bottom-right the 3 journal component; what component is it?,No (we cannot find the thing meet the requirement),one_hop.json
+573,There is a 2 text that is top-left the 3 journal component; what component is it?,No (we cannot find the thing meet the requirement),one_hop.json
+574,What is the component of the 1 text that is right the 3 journal component?,No (we cannot find the thing meet the requirement),one_hop.json
+575,There is a 2 journal text that is bottom-left the 3 journal component; what is its component?,No (we cannot find the thing meet the requirement),one_hop.json
+576,The 4 journal component that is top-left the 3 journal component is what component?,No (we cannot find the thing meet the requirement),one_hop.json
+577,There is a journal text bottom the 3 journal component; what is its component?,"Yes, It is text 1",one_hop.json
+578,What component is the component right the 3 journal component?,No (we cannot find the thing meet the requirement),one_hop.json
+579,The text that is top the 3 journal component is what component?,No (we cannot find the thing meet the requirement),one_hop.json
+580,What is the journal text that is bottom the 1 component made of?,journal,one_hop.json
+581,There is a journal component bottom the 1 component; what is it resources of?,journal,one_hop.json
+582,What is the resources of the journal text right the 1 component?,journal,one_hop.json
+583,There is a text that is bottom the 1 component; what resources is it?,journal,one_hop.json
+584,What is the journal component that is right the 1 component made of?,journal,one_hop.json
+585,What resources is the text right the 1 component?,journal,one_hop.json
+586,There is a component that is bottom the 1 component; what is its resources?,journal,one_hop.json
+587,What resources is the component right the 1 component?,journal,one_hop.json
+588,There is a journal component that is top the journal figure_caption; what resources is it?,journal,one_hop.json
+589,There is a component that is top the journal figure_caption; what is it resources of?,journal,one_hop.json
+590,What is the parent-child relationship of the component top the figure_caption?,parent,one_hop.json
+591,What is the parent-child relationship of the journal component top the figure_caption?,parent,one_hop.json
+592,What parent-child relationship is the component that is top the journal figure_caption?,parent,one_hop.json
+593,What parent-child relationship is the journal component top the journal figure_caption?,parent,one_hop.json
+594,What is the parent-child relationship of the component top the 3 figure_caption?,parent,one_hop.json
+595,What parent-child relationship is the journal component that is top the 3 figure_caption?,parent,one_hop.json
+596,What is the parent-child relationship of the journal component that is top the 3 journal figure_caption?,parent,one_hop.json
+597,What parent-child relationship is the component top the 3 journal figure_caption?,parent,one_hop.json
+598,What parent-child relationship is the component that is top the 3 journal component?,parent,one_hop.json
+599,What is the parent-child relationship of the journal component top the 3 journal component?,parent,one_hop.json
+600,"Does there exist journal components are right the 1 journal component and bottom the 1 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+601,"Does there exist components are right the 1 journal component and bottom the 1 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+602,"Does there exist journal texts are right the 1 journal component and bottom the 1 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+603,"Does there exist texts are right the 1 journal component and bottom the 1 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+604,"Does there exist components are top the 1 journal component and bottom the 1 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+605,"Does there exist journal components are both top the 1 journal component and bottom the 1 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+606,"Does there exist texts are both top-right the 3 journal text and bottom the 1 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+607,"Does there exist journal texts are both top-right the 3 journal text and bottom the 1 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+608,"Does there exist journal components are top-right the 3 journal text and bottom the 1 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+609,"Does there exist components are both top-right the 3 journal text and bottom the 1 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+610,What is the component of the component that is both bottom the 5 figure and top the 0 journal component?,text 4,single_and.json
+611,What is the component of the journal component that is bottom the 5 figure and top the 0 journal component?,text 4,single_and.json
+612,There is a component that is both bottom the 5 journal figure and top the 0 journal component; what component is it?,text 4,single_and.json
+613,The journal component that is both bottom the 5 journal figure and top the 0 journal component is what component?,text 4,single_and.json
+614,What is the component of the component that is both bottom the 5 component and top the 0 journal component?,text 4,single_and.json
+615,There is a journal component that is bottom the 5 component and top the 0 journal component; what component is it?,text 4,single_and.json
+616,The component that is both bottom the 5 journal component and top the 0 journal component is what component?,text 4,single_and.json
+617,The journal component that is both bottom the 5 journal component and top the 0 journal component is what component?,text 4,single_and.json
+618,The component that is top the 3 component and bottom the journal figure_caption is what component?,text 1,single_and.json
+619,What component is the journal component that is top the 3 component and bottom the journal figure_caption?,text 1,single_and.json
+620,There is a component that is top the 1 text and bottom the 5 component; what is its sources?,journal,single_and.json
+621,There is a component that is top the 0 text and bottom the 5 component; what sources is it?,journal,single_and.json
+622,What is the sources of the component that is both top the 1 journal component and bottom the 5 component?,journal,single_and.json
+623,What is the sources of the component that is top the 1 component and bottom the 5 component?,journal,single_and.json
+624,What is the sources of the component that is top the 0 journal text and bottom the 5 component?,journal,single_and.json
+625,What is the component that is both top the 0 journal component and bottom the 5 component made of?,journal,single_and.json
+626,What sources is the component that is both top the 0 component and bottom the 5 component?,journal,single_and.json
+627,The component that is both top the 1 journal text and bottom the 5 component is made of what sources?,journal,single_and.json
+628,There is a component that is both left the 2 text and top the 3 component; what sources is it?,journal,single_and.json
+629,There is a component that is bottom the figure_caption and top the 3 component; what is it made of?,journal,single_and.json
+630,There is a component bottom-left the 0 component; Is journal figure_captions bottom-left it?,No (we cannot find the thing meet the requirement),two_hop.json
+631,Is texts bottom-left the component that is bottom-left the 0 component?,No (we cannot find the thing meet the requirement),two_hop.json
+632,Is 1 journal texts top-right the component bottom-left the 0 component?,No (we cannot find the thing meet the requirement),two_hop.json
+633,Is 3 texts top-right the component bottom-left the 0 component?,No (we cannot find the thing meet the requirement),two_hop.json
+634,There is a component bottom-left the 0 component; Is 3 components bottom-right it?,No (we cannot find the thing meet the requirement),two_hop.json
+635,There is a component that is bottom-left the 0 component; Is 3 journal texts left it?,No (we cannot find the thing meet the requirement),two_hop.json
+636,Is 4 figure_captions top-left the component bottom-left the 0 component?,No (we cannot find the thing meet the requirement),two_hop.json
+637,Is 1 components left the component bottom-left the 0 component?,No (we cannot find the thing meet the requirement),two_hop.json
+638,Is figure_captions top-right the component bottom-left the 0 component?,No (we cannot find the thing meet the requirement),two_hop.json
+639,Is 1 components bottom-right the component bottom-left the 0 component?,No (we cannot find the thing meet the requirement),two_hop.json
+640,There is a journal component that is top the figure_caption; are there any journal figures top-left it?,No (we cannot find the thing meet the requirement),two_hop.json
+641,Are there 1 journal components top the journal component top the figure_caption?,No (we cannot find the thing meet the requirement),two_hop.json
+642,There is a journal component top the figure_caption; is there a journal figure_caption left it?,No (we cannot find the thing meet the requirement),two_hop.json
+643,Are there 5 journal figures that are top-left the journal component top the figure_caption?,No (we cannot find the thing meet the requirement),two_hop.json
+644,There is a journal component that is top the figure_caption; are there any 3 texts that are bottom it?,Yes,two_hop.json
+645,There is a journal component top the figure_caption; is there a journal figure_caption that is top it?,No (we cannot find the thing meet the requirement),two_hop.json
+646,There is a journal component top the figure_caption; is there a journal figure_caption that is bottom it?,Yes,two_hop.json
+647,There is a journal component top the figure_caption; is there a 2 component that is bottom it?,Yes,two_hop.json
+648,There is a journal component top the figure_caption; are there any journal components bottom-left it?,No (we cannot find the thing meet the requirement),two_hop.json
+649,There is a journal component that is top the figure_caption; is there a 2 journal text that is top it?,No (we cannot find the thing meet the requirement),two_hop.json
+650,There is a component bottom-left the text that is top the 2 component; what is its component?,text 3,two_hop.json
+651,What component is the journal text bottom-left the text top the 2 component?,text 3,two_hop.json
+652,The text that is left the text that is top the 2 component is what component?,text 1,two_hop.json
+653,What component is the component that is bottom the text top the 2 component?,text 2,two_hop.json
+654,The journal component bottom-left the text top the 2 component is what component?,text 3,two_hop.json
+655,There is a component that is left the text that is top the 2 component; what is its component?,text 1,two_hop.json
+656,What component is the journal component that is bottom the text top the 2 component?,text 2,two_hop.json
+657,What component is the journal component that is left the text top the 2 component?,text 1,two_hop.json
+658,There is a journal text left the text that is top the 2 component; what component is it?,text 1,two_hop.json
+659,What component is the journal text that is bottom the text that is top the 2 component?,text 2,two_hop.json
+660,What is the source of the component that is bottom the text that is left the 0 journal component?,journal,two_hop.json
+661,There is a text that is bottom the text that is left the 0 journal component; what is it made of?,journal,two_hop.json
+662,What is the source of the text that is top the component that is bottom the 0 journal component?,journal,two_hop.json
+663,What is the text that is top the text bottom the 0 journal component made of?,journal,two_hop.json
+664,What is the component that is right the journal component that is bottom-left the 0 journal component made of?,journal,two_hop.json
+665,The text that is top the journal component bottom-left the 0 journal component is made of what source?,journal,two_hop.json
+666,There is a component that is top-right the journal component bottom-left the 0 journal component; what is its source?,journal,two_hop.json
+667,The text right the journal component bottom-left the 0 journal component is made of what source?,journal,two_hop.json
+668,There is a text that is top-right the journal component bottom-left the 0 journal component; what is it made of?,journal,two_hop.json
+669,What material is the component that is right the journal text bottom-left the 0 journal component made of?,journal,two_hop.json
+670,How many figure_captions are top the 3 journal component?,"It is only one, which is text 3",one_hop.json
+671,What number of components are top the 3 journal component?,The number is 3,one_hop.json
+672,There is a 3 journal component; how many journal figure_captions are top it?,"It is only one, which is text 3",one_hop.json
+673,What number of journal figure_captions are bottom the 3 journal component?,No (we cannot find the thing meet the requirement),one_hop.json
+674,There is a 3 journal component; what number of journal figures are bottom-right it?,No (we cannot find the thing meet the requirement),one_hop.json
+675,What number of figure_captions are bottom-left the 3 journal component?,No (we cannot find the thing meet the requirement),one_hop.json
+676,What number of texts are top-left the 3 journal component?,No (we cannot find the thing meet the requirement),one_hop.json
+677,There is a 3 journal component; how many figure_captions are bottom it?,No (we cannot find the thing meet the requirement),one_hop.json
+678,There is a 3 journal component; how many journal figure_captions are bottom-left it?,No (we cannot find the thing meet the requirement),one_hop.json
+679,How many journal figure_captions are top-left the 3 journal component?,No (we cannot find the thing meet the requirement),one_hop.json
+680,Are there any 1 journal texts top the 0 journal text?,No (we cannot find the thing meet the requirement),one_hop.json
+681,There is a 0 journal text; are there any 3 texts left it?,No (we cannot find the thing meet the requirement),one_hop.json
+682,Are there any 5 journal figures right the 0 journal text?,No (we cannot find the thing meet the requirement),one_hop.json
+683,Are there any 3 components top-right the 0 journal text?,No (we cannot find the thing meet the requirement),one_hop.json
+684,There is a 0 journal text; are there any 5 journal figures top-right it?,No (we cannot find the thing meet the requirement),one_hop.json
+685,Are there any 3 journal components left the 0 journal text?,No (we cannot find the thing meet the requirement),one_hop.json
+686,There is a 0 journal text; are there any 4 journal figure_captions bottom-right it?,No (we cannot find the thing meet the requirement),one_hop.json
+687,There is a 0 journal text; are there any 3 journal texts left it?,No (we cannot find the thing meet the requirement),one_hop.json
+688,There is a 0 journal text; are there any 4 journal figure_captions top-left it?,No (we cannot find the thing meet the requirement),one_hop.json
+689,There is a 0 journal text; are there any 1 journal components right it?,No (we cannot find the thing meet the requirement),one_hop.json
+690,There is a figure_caption that is left the 5 figure; what component is it?,No (we cannot find the thing meet the requirement),one_hop.json
+691,What is the component of the 0 text that is bottom-right the 5 figure?,No (we cannot find the thing meet the requirement),one_hop.json
+692,What is the component of the component that is bottom-right the 5 figure?,No (we cannot find the thing meet the requirement),one_hop.json
+693,There is a 4 component that is top the 5 figure; what is its component?,No (we cannot find the thing meet the requirement),one_hop.json
+694,The 1 journal text that is left the 5 figure is what component?,No (we cannot find the thing meet the requirement),one_hop.json
+695,The 1 component that is bottom the 5 figure is what component?,"Yes, It is text 1",one_hop.json
+696,What is the component of the 2 component bottom-right the 5 figure?,No (we cannot find the thing meet the requirement),one_hop.json
+697,There is a journal figure top-left the 5 figure; what component is it?,No (we cannot find the thing meet the requirement),one_hop.json
+698,What is the component of the 3 text bottom-left the 5 figure?,No (we cannot find the thing meet the requirement),one_hop.json
+699,What component is the journal component top-right the 5 figure?,No (we cannot find the thing meet the requirement),one_hop.json
+700,What is the resources of the text bottom the 1 journal component?,journal,one_hop.json
+701,There is a journal component bottom the 1 journal component; what is its resources?,journal,one_hop.json
+702,There is a journal text bottom the 1 journal component; what resources is it?,journal,one_hop.json
+703,There is a component that is bottom the 1 journal component; what is it resources of?,journal,one_hop.json
+704,What is the resources of the text that is bottom-left the 0 journal component?,journal,one_hop.json
+705,There is a text that is left the 0 journal component; what resources is it?,journal,one_hop.json
+706,There is a journal component bottom-left the 0 journal component; what is it resources of?,journal,one_hop.json
+707,What is the journal text bottom the 0 journal component made of?,journal,one_hop.json
+708,There is a journal component that is left the 0 journal component; what is its resources?,journal,one_hop.json
+709,There is a component bottom the 0 journal component; what resources is it?,journal,one_hop.json
+710,What parent-child relationship is the component top the 4 journal component?,parent,one_hop.json
+711,What is the parent-child relationship of the journal component that is top the 4 journal component?,parent,one_hop.json
+712,What parent-child relationship is the component that is top the 4 component?,parent,one_hop.json
+713,What is the parent-child relationship of the journal component that is top the 4 component?,parent,one_hop.json
+714,What is the parent-child relationship of the component that is top the 4 journal figure_caption?,parent,one_hop.json
+715,What parent-child relationship is the journal component top the 4 journal figure_caption?,parent,one_hop.json
+716,What parent-child relationship is the journal component top the figure_caption?,parent,one_hop.json
+717,What is the parent-child relationship of the component top the figure_caption?,parent,one_hop.json
+718,What is the parent-child relationship of the component top the 4 figure_caption?,parent,one_hop.json
+719,What is the parent-child relationship of the journal component that is top the 4 figure_caption?,parent,one_hop.json
+720,"Does there exist journal lists are right the 3 journal component and left the 8 journal list? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+721,"Does there exist journal components are right the 3 journal component and left the 8 journal list? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+722,"Does there exist components are both right the 3 journal component and left the 8 journal list? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+723,"Does there exist lists are both right the 3 journal component and left the 8 journal list? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+724,"Does there exist components are both right the 5 title and left the 8 journal list? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+725,"Does there exist lists are right the 5 title and left the 8 journal list? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+726,"Does there exist journal components are right the 5 title and left the 8 journal list? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+727,"Does there exist journal lists are both right the 5 title and left the 8 journal list? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+728,"Does there exist lists are right the 7 journal component and left the 8 journal list? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+729,"Does there exist journal lists are both right the 7 journal component and left the 8 journal list? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+730,What component is the journal text that is both top the 4 component and bottom the 2 journal text?,text 1,single_and.json
+731,What component is the text that is top the 4 component and bottom the 2 journal text?,text 1,single_and.json
+732,The journal component that is both top the 4 component and bottom the 2 journal text is what component?,text 1,single_and.json
+733,What is the component of the component that is top the 4 component and bottom the 2 journal text?,text 1,single_and.json
+734,What component is the journal text that is both top the 0 text and bottom the 2 journal text?,text 1,single_and.json
+735,What is the component of the component that is both top the 0 text and bottom the 2 journal text?,text 1,single_and.json
+736,What component is the journal component that is top the 0 text and bottom the 2 journal text?,text 1,single_and.json
+737,There is a text that is top the 0 text and bottom the 2 journal text; what is its component?,text 1,single_and.json
+738,What component is the journal component that is top the 0 journal text and bottom the 2 journal text?,text 1,single_and.json
+739,There is a component that is both top the 0 journal text and bottom the 2 journal text; what is its component?,text 1,single_and.json
+740,What is the component that is both top the 3 text and bottom the 4 component made of?,journal,single_and.json
+741,What is the sources of the title that is both top the 3 text and bottom the 4 component?,journal,single_and.json
+742,What is the title that is top the 3 journal component and bottom the 4 component made of?,journal,single_and.json
+743,What sources is the component that is top the 3 journal component and bottom the 4 component?,journal,single_and.json
+744,The title that is both top the 6 component and bottom the 4 component is made of what sources?,journal,single_and.json
+745,There is a component that is top the 3 component and bottom the 4 component; what is its sources?,journal,single_and.json
+746,What sources is the title that is both top the 3 component and bottom the 4 component?,journal,single_and.json
+747,There is a title that is both top the 6 journal title and bottom the 4 component; what is its sources?,journal,single_and.json
+748,There is a title that is both top the 3 journal text and bottom the 4 component; what sources is it?,journal,single_and.json
+749,What is the component that is both top the 3 journal text and bottom the 4 component made of?,journal,single_and.json
+750,There is a component that is right the 5 journal title; Is 3 components bottom-right it?,No (we cannot find the thing meet the requirement),two_hop.json
+751,There is a component right the 5 journal title; Is 6 titles top-right it?,No (we cannot find the thing meet the requirement),two_hop.json
+752,Is 5 journal components top-left the component that is right the 5 journal title?,No (we cannot find the thing meet the requirement),two_hop.json
+753,Is 3 journal components bottom the component that is right the 5 journal title?,No (we cannot find the thing meet the requirement),two_hop.json
+754,There is a component that is right the 5 journal title; Is 8 lists bottom-left it?,No (we cannot find the thing meet the requirement),two_hop.json
+755,There is a component that is right the 5 journal title; Is 1 journal texts top it?,No (we cannot find the thing meet the requirement),two_hop.json
+756,There is a component right the 5 journal title; Is 6 journal titles top-left it?,No (we cannot find the thing meet the requirement),two_hop.json
+757,Is 1 journal texts bottom-left the component right the 5 journal title?,No (we cannot find the thing meet the requirement),two_hop.json
+758,There is a component right the 5 journal title; Is 8 lists bottom it?,No (we cannot find the thing meet the requirement),two_hop.json
+759,There is a component that is right the 5 journal title; Is 5 titles top-left it?,No (we cannot find the thing meet the requirement),two_hop.json
+760,Are there 0 texts that are bottom-right the 8 list right the 5 component?,No (we cannot find the thing meet the requirement),two_hop.json
+761,Is there a 8 list that is bottom-right the 8 list that is right the 5 component?,No (we cannot find the thing meet the requirement),two_hop.json
+762,Is there a 6 journal title that is bottom-left the 8 list that is right the 5 component?,No (we cannot find the thing meet the requirement),two_hop.json
+763,There is a 8 list that is right the 5 component; are there any 0 texts that are top it?,No (we cannot find the thing meet the requirement),two_hop.json
+764,There is a 8 list that is right the 5 component; is there a title that is bottom it?,No (we cannot find the thing meet the requirement),two_hop.json
+765,Are there 8 components that are top-left the 8 list that is right the 5 component?,No (we cannot find the thing meet the requirement),two_hop.json
+766,Is there a 0 text that is bottom the 8 list that is right the 5 component?,No (we cannot find the thing meet the requirement),two_hop.json
+767,There is a 8 list that is right the 5 component; are there any journal titles that are top it?,No (we cannot find the thing meet the requirement),two_hop.json
+768,There is a 8 list right the 5 component; are there any 4 components that are top-left it?,No (we cannot find the thing meet the requirement),two_hop.json
+769,There is a 8 list right the 5 component; is there a 4 journal title that is top-right it?,No (we cannot find the thing meet the requirement),two_hop.json
+770,The journal list left the list right the 0 journal text is what component?,text 7,two_hop.json
+771,There is a list that is left the list that is right the 0 journal text; what is its component?,text 7,two_hop.json
+772,There is a journal component right the journal list bottom the 0 journal text; what component is it?,text 8,two_hop.json
+773,The journal list right the journal list bottom the 0 journal text is what component?,text 8,two_hop.json
+774,There is a list right the journal list bottom the 0 journal text; what component is it?,text 8,two_hop.json
+775,There is a component that is right the journal list bottom the 0 journal text; what component is it?,text 8,two_hop.json
+776,What component is the list that is bottom the journal text bottom the 0 journal text?,text 7,two_hop.json
+777,What is the component of the journal title bottom the journal text that is bottom the 0 journal text?,"References
+",two_hop.json
+778,The journal list right the journal text that is bottom the 0 journal text is what component?,text 8,two_hop.json
+779,There is a title that is bottom the journal text that is bottom the 0 journal text; what is its component?,"References
+",two_hop.json
+780,The text bottom the journal text that is left the 4 component is made of what source?,journal,two_hop.json
+781,The component right the journal text that is left the 4 component is made of what source?,journal,two_hop.json
+782,There is a list that is bottom the journal text that is left the 4 component; what is it made of?,journal,two_hop.json
+783,What material is the list that is right the journal text that is left the 4 component made of?,journal,two_hop.json
+784,What source is the list right the journal text bottom the 4 component?,journal,two_hop.json
+785,What source is the title that is bottom the journal text that is bottom the 4 component?,journal,two_hop.json
+786,What material is the list bottom the journal text that is bottom the 4 component made of?,journal,two_hop.json
+787,What material is the component that is right the journal text that is bottom the 4 component made of?,journal,two_hop.json
+788,There is a list right the text that is left the 4 component; what is it made of?,journal,two_hop.json
+789,There is a list that is bottom the text that is left the 4 component; what is it made of?,journal,two_hop.json
+790,There is a 2 component; how many titles are top it?,No (we cannot find the thing meet the requirement),one_hop.json
+791,There is a 2 component; what number of journal texts are bottom-right it?,No (we cannot find the thing meet the requirement),one_hop.json
+792,There is a 2 component; what number of journal lists are bottom-left it?,No (we cannot find the thing meet the requirement),one_hop.json
+793,There is a 2 component; how many titles are bottom-right it?,No (we cannot find the thing meet the requirement),one_hop.json
+794,There is a 2 component; what number of components are top-left it?,No (we cannot find the thing meet the requirement),one_hop.json
+795,There is a 2 component; what number of journal lists are top-left it?,No (we cannot find the thing meet the requirement),one_hop.json
+796,There is a 2 component; what number of titles are top-left it?,No (we cannot find the thing meet the requirement),one_hop.json
+797,There is a 2 component; how many journal texts are bottom-left it?,No (we cannot find the thing meet the requirement),one_hop.json
+798,What number of texts are left the 2 component?,No (we cannot find the thing meet the requirement),one_hop.json
+799,How many titles are bottom the 2 component?,The number is 3,one_hop.json
+800,Are there any 1 journal components left the 6 journal component?,No (we cannot find the thing meet the requirement),one_hop.json
+801,There is a 6 journal component; are there any 1 journal texts bottom it?,No (we cannot find the thing meet the requirement),one_hop.json
+802,Are there any 2 texts left the 6 journal component?,No (we cannot find the thing meet the requirement),one_hop.json
+803,There is a 6 journal component; are there any journal components bottom it?,"Yes, It is References
+",one_hop.json
+804,There is a 6 journal component; are there any 2 journal texts bottom-right it?,No (we cannot find the thing meet the requirement),one_hop.json
+805,Are there any 3 journal components top-right the 6 journal component?,No (we cannot find the thing meet the requirement),one_hop.json
+806,Are there any 8 components left the 6 journal component?,No (we cannot find the thing meet the requirement),one_hop.json
+807,Are there any 0 components bottom-right the 6 journal component?,No (we cannot find the thing meet the requirement),one_hop.json
+808,There is a 6 journal component; are there any 2 components top-right it?,No (we cannot find the thing meet the requirement),one_hop.json
+809,There is a 6 journal component; are there any 8 components top-left it?,No (we cannot find the thing meet the requirement),one_hop.json
+810,There is a journal title that is right the 2 text; what component is it?,No (we cannot find the thing meet the requirement),one_hop.json
+811,The 3 component right the 2 text is what component?,No (we cannot find the thing meet the requirement),one_hop.json
+812,What component is the 6 title that is top-left the 2 text?,No (we cannot find the thing meet the requirement),one_hop.json
+813,The 0 journal text bottom the 2 text is what component?,"Yes, It is text 1",one_hop.json
+814,There is a 3 component left the 2 text; what component is it?,No (we cannot find the thing meet the requirement),one_hop.json
+815,There is a 0 component bottom the 2 text; what component is it?,"Yes, It is text 1",one_hop.json
+816,The 3 component that is top the 2 text is what component?,No (we cannot find the thing meet the requirement),one_hop.json
+817,The 5 journal component that is bottom-left the 2 text is what component?,No (we cannot find the thing meet the requirement),one_hop.json
+818,What is the component of the 0 text that is bottom-left the 2 text?,No (we cannot find the thing meet the requirement),one_hop.json
+819,What is the component of the 1 text that is bottom-left the 2 text?,No (we cannot find the thing meet the requirement),one_hop.json
+820,There is a journal component right the 7 component; what resources is it?,journal,one_hop.json
+821,What is the journal list right the 7 component made of?,journal,one_hop.json
+822,There is a component that is right the 7 component; what is it resources of?,journal,one_hop.json
+823,There is a list that is right the 7 component; what is it resources of?,journal,one_hop.json
+824,What is the resources of the list that is right the 7 journal component?,journal,one_hop.json
+825,What is the journal list right the 7 journal component made of?,journal,one_hop.json
+826,What is the component right the 7 journal component made of?,journal,one_hop.json
+827,What is the journal component right the 7 journal component made of?,journal,one_hop.json
+828,What is the resources of the list that is bottom the 0 text?,journal,one_hop.json
+829,There is a text bottom the 0 text; what is its resources?,journal,one_hop.json
+830,What is the parent-child relationship of the journal list bottom the 5 journal component?,child,one_hop.json
+831,What parent-child relationship is the journal title bottom the 5 journal component?,parent,one_hop.json
+832,What parent-child relationship is the list bottom the 5 journal component?,child,one_hop.json
+833,What is the parent-child relationship of the title top the 5 journal component?,parent,one_hop.json
+834,What is the parent-child relationship of the journal title that is top the 5 journal component?,parent,one_hop.json
+835,What is the parent-child relationship of the journal text that is bottom the 5 journal component?,child,one_hop.json
+836,What is the parent-child relationship of the text bottom the 5 journal component?,child,one_hop.json
+837,What is the parent-child relationship of the title bottom the 5 journal component?,parent,one_hop.json
+838,What parent-child relationship is the component that is bottom the 6 journal title?,child,one_hop.json
+839,What is the parent-child relationship of the journal component that is bottom the 6 journal title?,child,one_hop.json
+840,"Does there exist journal components are both left the 0 journal component and bottom-right the 2 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+841,"Does there exist components are both left the 0 journal component and bottom-right the 2 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+842,"Does there exist components are left the 0 component and bottom-right the 2 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+843,"Does there exist journal components are left the 0 component and bottom-right the 2 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+844,"Does there exist components are top-left the 1 journal text and bottom-right the 2 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+845,"Does there exist journal components are both top-left the 1 journal text and bottom-right the 2 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+846,"Does there exist journal texts are top the 1 journal text and bottom-right the 2 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+847,"Does there exist components are top the 1 journal text and bottom-right the 2 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+848,"Does there exist texts are both top the 1 journal text and bottom-right the 2 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+849,"Does there exist journal components are top the 1 journal text and bottom-right the 2 journal component? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+850,There is a component that is right the journal list; Is 2 components right it?,No (we cannot find the thing meet the requirement),two_hop.json
+851,Is texts right the component that is right the journal list?,No (we cannot find the thing meet the requirement),two_hop.json
+852,There is a component that is right the journal list; Is journal texts bottom-right it?,No (we cannot find the thing meet the requirement),two_hop.json
+853,There is a component right the journal list; Is journal lists top it?,No (we cannot find the thing meet the requirement),two_hop.json
+854,There is a component that is right the journal list; Is journal lists left it?,Yes,two_hop.json
+855,Is components top-left the component right the journal list?,No (we cannot find the thing meet the requirement),two_hop.json
+856,There is a component right the journal list; Is 0 journal texts right it?,No (we cannot find the thing meet the requirement),two_hop.json
+857,Is 2 components top-right the component that is right the journal list?,No (we cannot find the thing meet the requirement),two_hop.json
+858,There is a component that is right the journal list; Is 2 journal components right it?,No (we cannot find the thing meet the requirement),two_hop.json
+859,Is 2 components top-left the component that is right the journal list?,No (we cannot find the thing meet the requirement),two_hop.json
+860,Are there 0 texts that are top-left the text that is right the list?,No (we cannot find the thing meet the requirement),two_hop.json
+861,Are there 0 components that are bottom the text right the list?,No (we cannot find the thing meet the requirement),two_hop.json
+862,Are there 1 journal texts that are bottom-right the text that is right the list?,No (we cannot find the thing meet the requirement),two_hop.json
+863,Are there 2 lists bottom-left the text right the list?,No (we cannot find the thing meet the requirement),two_hop.json
+864,There is a text right the list; is there a 1 journal component bottom it?,Yes,two_hop.json
+865,There is a text that is right the list; is there a 2 component top-left it?,No (we cannot find the thing meet the requirement),two_hop.json
+866,Is there a list that is top-left the text right the list?,No (we cannot find the thing meet the requirement),two_hop.json
+867,Are there journal lists that are top-left the text that is right the list?,No (we cannot find the thing meet the requirement),two_hop.json
+868,There is a text right the list; are there any 2 lists that are right it?,No (we cannot find the thing meet the requirement),two_hop.json
+869,There is a text that is right the list; is there a 0 text that is left it?,No (we cannot find the thing meet the requirement),two_hop.json
+870,What component is the journal component left the journal component that is top the 1 journal text?,text 2,two_hop.json
+871,What component is the journal text bottom the journal component that is top the 1 journal text?,text 1,two_hop.json
+872,What component is the journal component that is bottom the journal component that is top the 1 journal text?,text 1,two_hop.json
+873,The text that is bottom the journal component that is top the 1 journal text is what component?,text 1,two_hop.json
+874,There is a component that is bottom the journal component that is top the 1 journal text; what is its component?,text 1,two_hop.json
+875,What is the component of the component left the journal component that is top the 1 journal text?,text 2,two_hop.json
+876,There is a journal text that is right the journal component top-left the 1 journal text; what is its component?,text 0,two_hop.json
+877,The journal component right the journal component that is top-left the 1 journal text is what component?,text 0,two_hop.json
+878,The text right the journal component top-left the 1 journal text is what component?,text 0,two_hop.json
+879,The journal component bottom-right the journal component that is top-left the 1 journal text is what component?,text 1,two_hop.json
+880,What is the component bottom the journal component top the 1 text made of?,journal,two_hop.json
+881,The text that is bottom the journal component top the 1 text is made of what source?,journal,two_hop.json
+882,What source is the component left the journal component that is top the 1 text?,journal,two_hop.json
+883,What source is the component that is bottom the journal text that is top the 1 text?,journal,two_hop.json
+884,What is the 2 component that is left the journal text top the 1 text made of?,journal,two_hop.json
+885,What is the source of the text that is bottom the journal text top the 1 text?,journal,two_hop.json
+886,There is a component left the journal text top the 1 text; what is it made of?,journal,two_hop.json
+887,What is the source of the text that is bottom-right the journal component that is top-left the 1 text?,journal,two_hop.json
+888,There is a component right the journal component that is top-left the 1 text; what is its source?,journal,two_hop.json
+889,The text that is right the journal component that is top-left the 1 text is made of what source?,journal,two_hop.json
+890,How many lists are bottom-right the 1 component?,No (we cannot find the thing meet the requirement),one_hop.json
+891,How many texts are top-right the 1 component?,No (we cannot find the thing meet the requirement),one_hop.json
+892,There is a 1 component; what number of texts are bottom-left it?,No (we cannot find the thing meet the requirement),one_hop.json
+893,There is a 1 component; what number of journal lists are bottom it?,No (we cannot find the thing meet the requirement),one_hop.json
+894,How many components are bottom the 1 component?,No (we cannot find the thing meet the requirement),one_hop.json
+895,There is a 1 component; what number of texts are top it?,"It is only one, which is text 1",one_hop.json
+896,How many journal components are bottom the 1 component?,No (we cannot find the thing meet the requirement),one_hop.json
+897,There is a 1 component; how many components are right it?,No (we cannot find the thing meet the requirement),one_hop.json
+898,There is a 1 component; how many components are bottom-right it?,No (we cannot find the thing meet the requirement),one_hop.json
+899,How many components are top-left the 1 component?,"It is only one, which is text 1",one_hop.json
+900,Are there any 0 components bottom the 1 journal component?,No (we cannot find the thing meet the requirement),one_hop.json
+901,There is a 1 journal component; are there any 1 journal components left it?,No (we cannot find the thing meet the requirement),one_hop.json
+902,Are there any journal components right the 1 journal component?,No (we cannot find the thing meet the requirement),one_hop.json
+903,There is a 1 journal component; are there any journal components top it?,"Yes, It is text 1",one_hop.json
+904,There is a 1 journal component; are there any 1 components top-left it?,No (we cannot find the thing meet the requirement),one_hop.json
+905,Are there any 0 texts top-left the 1 journal component?,No (we cannot find the thing meet the requirement),one_hop.json
+906,Are there any 0 texts bottom-right the 1 journal component?,No (we cannot find the thing meet the requirement),one_hop.json
+907,Are there any 1 journal components top-right the 1 journal component?,No (we cannot find the thing meet the requirement),one_hop.json
+908,There is a 1 journal component; are there any components right it?,No (we cannot find the thing meet the requirement),one_hop.json
+909,Are there any 2 components top the 1 journal component?,No (we cannot find the thing meet the requirement),one_hop.json
+910,What is the component of the 2 list left the 1 text?,No (we cannot find the thing meet the requirement),one_hop.json
+911,There is a list that is left the 1 text; what is its component?,No (we cannot find the thing meet the requirement),one_hop.json
+912,There is a 1 journal text bottom the 1 text; what is its component?,No (we cannot find the thing meet the requirement),one_hop.json
+913,What is the component of the list bottom-right the 1 text?,No (we cannot find the thing meet the requirement),one_hop.json
+914,There is a 1 journal component top the 1 text; what component is it?,No (we cannot find the thing meet the requirement),one_hop.json
+915,The 1 journal component bottom the 1 text is what component?,No (we cannot find the thing meet the requirement),one_hop.json
+916,There is a journal component right the 1 text; what component is it?,No (we cannot find the thing meet the requirement),one_hop.json
+917,What is the component of the 0 journal component that is top-right the 1 text?,No (we cannot find the thing meet the requirement),one_hop.json
+918,There is a 2 journal list right the 1 text; what is its component?,No (we cannot find the thing meet the requirement),one_hop.json
+919,The journal text that is top-right the 1 text is what component?,No (we cannot find the thing meet the requirement),one_hop.json
+920,What resources is the journal component that is right the 2 journal list?,journal,one_hop.json
+921,There is a journal text that is right the 2 journal list; what is it resources of?,journal,one_hop.json
+922,What resources is the 0 component that is right the 2 journal list?,journal,one_hop.json
+923,What is the text right the 2 journal list made of?,journal,one_hop.json
+924,There is a component right the 2 journal list; what is its resources?,journal,one_hop.json
+925,There is a component that is bottom-right the 2 journal list; what is it resources of?,journal,one_hop.json
+926,There is a text bottom-right the 2 journal list; what is it resources of?,journal,one_hop.json
+927,What resources is the journal text that is bottom-right the 2 journal list?,journal,one_hop.json
+928,What resources is the journal component that is bottom-right the 2 journal list?,journal,one_hop.json
+929,There is a journal text that is right the list; what is it resources of?,journal,one_hop.json
+930,What parent-child relationship is the journal component left the 0 component?,child,one_hop.json
+931,What parent-child relationship is the journal list that is left the 0 component?,child,one_hop.json
+932,What parent-child relationship is the component that is left the 0 component?,child,one_hop.json
+933,What is the parent-child relationship of the component top the 1 journal text?,parent,one_hop.json
+934,What parent-child relationship is the component that is top-left the 1 journal text?,child,one_hop.json
+935,What is the parent-child relationship of the journal component top the 1 journal text?,parent,one_hop.json
+936,What is the parent-child relationship of the journal component top-left the 1 journal text?,child,one_hop.json
+937,What parent-child relationship is the text top the 1 journal text?,parent,one_hop.json
+938,What is the parent-child relationship of the journal text that is top the 1 journal text?,parent,one_hop.json
+939,What parent-child relationship is the journal component right the journal list?,parent,one_hop.json
