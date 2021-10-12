@@ -1,0 +1,79 @@
+,question,answer,template_filename
+0,How many titles are there?,2,zero_hop.json
+1,"Are there existing a content that are both top the title 8 and bottom the component 2? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+2,What is content that is bottom the journal component 6 and top the text 0?,text 1,single_and.json
+3,There is a title top the 1 journal component; Is journal text 0s top-right it?,No (we cannot find the thing meet the requirement),two_hop.json
+4,Is there a content that is bottom the title that is top the journal component 8?,Yes,two_hop.json
+5,There is a component 6; how many journal component s are right it?,No (we cannot find the thing meet the requirement),one_hop.json
+6,"There is a component 0; are there any journal text 0s bottom-right it, what content is it?",No (we cannot find the thing meet the requirement),one_hop.json
+7,What is the type of content that is bottom the component 1?,journal,one_hop.json
+8,What is the title of the journal title on the top of the component 0?,"Tissue localization of collagenase and leucine aminopeptidase in the
+bovine filarial parasite Setaria cervi
+",one_hop.json
+9,How many titles are there?,3,zero_hop.json
+10,"Are there existing a content that are top the journal component 0 and bottom-left the journal text 3? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+11,There is a component that is both right the component 4 and top the text 6; what is its content?,text 3,single_and.json
+12,There is a component bottom-left the 8 journal title; Is journal text 4s left it?,No (we cannot find the thing meet the requirement),two_hop.json
+13,Is there a content that is top-left the journal title top-left the component 0?,No (we cannot find the thing meet the requirement),two_hop.json
+14,How many journal title s are bottom-left the text 4?,No (we cannot find the thing meet the requirement),one_hop.json
+15,"There is a journal title 9; are there any text 4s top-left it, what content is it?",No (we cannot find the thing meet the requirement),one_hop.json
+16,There is a content that is left the component 5; what is its type?,journal,one_hop.json
+17,What is the title of the text that is on the left of the text 5?,"Background
+",one_hop.json
+18,How many titles are there?,3,zero_hop.json
+19,"Are there existing a content that are both top the journal component 7 and top the journal text 1? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+20,What is content that is top the title 10 and bottom-left the text 4?,text 6,single_and.json
+21,There is a journal title top the 3 journal text; Is journal title 10s bottom it?,No (we cannot find the thing meet the requirement),two_hop.json
+22,Is there a content top-left the journal component that is top-left the title 9?,No (we cannot find the thing meet the requirement),two_hop.json
+23,How many journal text s are bottom-left the journal component 11?,No (we cannot find the thing meet the requirement),one_hop.json
+24,"There is a title 9; are there any journal title 8s right it, what content is it?",No (we cannot find the thing meet the requirement),one_hop.json
+25,What is the type of content that is left the journal text 7?,journal,one_hop.json
+26,What is the title of the text that is on the right of the component 5?,"Immunohistochemistry (IHC) of collagenase
+",one_hop.json
+27,How many titles are there?,2,zero_hop.json
+28,"Are there existing a content that are right the journal text 6 and left the text 4? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+29,There is a component that is left the journal text 4 and bottom the journal component 5; what is its content?,text 3,single_and.json
+30,There is a component top-right the 3 component; Is component s top-left it?,No (we cannot find the thing meet the requirement),two_hop.json
+31,Is there a content top-left the component right the journal component 8?,No (we cannot find the thing meet the requirement),two_hop.json
+32,There is a component 0; how many journal text s are top it?,The number is 2,one_hop.json
+33,"There is a journal component 1; are there any journal component 4s top-right it, what content is it?",No (we cannot find the thing meet the requirement),one_hop.json
+34,There is a content that is left the component 2; what is its type?,journal,one_hop.json
+35,What is the title of the component on the bottom-right of the journal title 7?,"Discussion
+",one_hop.json
+36,How many components are there?,5,zero_hop.json
+37,"Are there existing a content that are right the component 1 and top the text 0? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+38,What is content that is both bottom the figure 4 and top the journal component 1?,text 3,single_and.json
+39,There is a journal text bottom the 1 component; Is journal component 3s left it?,No (we cannot find the thing meet the requirement),two_hop.json
+40,Is there a content right the component top the component 3?,No (we cannot find the thing meet the requirement),two_hop.json
+41,How many journal figure s are right the figure_caption 3?,No (we cannot find the thing meet the requirement),one_hop.json
+42,"There is a journal component 2; are there any journal figure 4s bottom-left it, what content is it?",No (we cannot find the thing meet the requirement),one_hop.json
+43,There is a content that is right the component 1; what is its type?,journal,one_hop.json
+44,What is the title of the journal component on the top of the component 3?,No title,one_hop.json
+45,How many texts are there?,4,zero_hop.json
+46,"Are there existing a content that are both right the journal text 3 and top-right the component 3? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+47,There is a component that is left the component 2 and top the text 3; what is its content?,text 1,single_and.json
+48,There is a component top the journal figure_caption; Is text 1s top it?,No (we cannot find the thing meet the requirement),two_hop.json
+49,Is there a content that is bottom-left the text that is bottom the text 1?,No (we cannot find the thing meet the requirement),two_hop.json
+50,How many figure s are bottom-left the text 0?,No (we cannot find the thing meet the requirement),one_hop.json
+51,"There is a text 1; are there any journal figure 5s bottom it, what content is it?",No (we cannot find the thing meet the requirement),one_hop.json
+52,There is a content that is bottom the component 1; what is its type?,journal,one_hop.json
+53,What is the title of the component that is on the top of the journal component 4?,No title,one_hop.json
+54,How many lists are there?,2,zero_hop.json
+55,"Are there existing a content that are both top the list 7 and right the title 6? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+56,There is a component that is bottom the text 0 and top the component 3; what is its content?,"Acknowledgements
+",single_and.json
+57,There is a journal list right the 7 component; Is title 6s bottom-left it?,No (we cannot find the thing meet the requirement),two_hop.json
+58,Is there a content that is top-left the list bottom the journal component 3?,No (we cannot find the thing meet the requirement),two_hop.json
+59,There is a journal component 8; how many journal text s are top-right it?,No (we cannot find the thing meet the requirement),one_hop.json
+60,"There is a title 5; are there any journal component 6s left it, what content is it?",No (we cannot find the thing meet the requirement),one_hop.json
+61,What is the type of content that is left the component 4?,journal,one_hop.json
+62,What is the title of the list on the bottom of the text 3?,"References
+",one_hop.json
+63,How many lists are there?,"Yes, it is ",zero_hop.json
+64,"Are there existing a content that are both bottom the journal text 0 and top-left the component 1? If more than one, what is the total count?",No (we cannot find the thing meet the requirement),single_and.json
+65,There is a component left the 0 journal text; Is journal list 2s left it?,No (we cannot find the thing meet the requirement),two_hop.json
+66,Is there a content left the component that is top the text 1?,No (we cannot find the thing meet the requirement),two_hop.json
+67,How many component s are top-right the journal text 0?,No (we cannot find the thing meet the requirement),one_hop.json
+68,"There is a text 0; are there any journal component s bottom-right it, what content is it?",No (we cannot find the thing meet the requirement),one_hop.json
+69,There is a content that is bottom-right the journal component 2; what is its type?,journal,one_hop.json
+70,What is the title of the text that is on the top of the journal text 1?,No title,one_hop.json
