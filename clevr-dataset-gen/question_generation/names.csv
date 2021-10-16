@@ -1,0 +1,81 @@
+image_name,types_name,answer,questions
+0,direction.json,Abstract,What titles are left of this page?
+0,direction.json,Abstract,What titles are top left of this page?
+0,direction.json,There is no title in the bottom left of page,What titles are bottom left of this page?
+0,direction.json,This page is Centered layout,What titles are right of this page?
+0,direction.json,There is no title in the top right of page,What titles are top right of this page?
+0,direction.json,There is no title in the bottom right of page,What titles are bottom right of this page?
+0,direction.json,It is unclear,What is text about on the left of the page?
+0,direction.json,It is unclear,What is text about on the top left of the page?
+0,direction.json,It is unclear,What is text about on the bottom left of the page?
+0,direction.json,It is unclear,What is text about on the right of the page?
+1,direction.json,"Filarial parasites and tissue preparation,Background",What is text about on the top right of the page?
+1,direction.json,It is unclear,What is text about on the bottom right of the page?
+1,direction.json,There is no table_caption in the right of page,What table captions are left of this page?
+1,direction.json,There is no table_caption in the top right of page,What table captions are top left of this page?
+1,direction.json,There is no table_caption in the bottom right of page,What table captions are bottom left of this page?
+1,direction.json,There is no table_caption in the right of page,What table captions are right of this page?
+1,direction.json,There is no table_caption in the top right of page,What table captions are top right of this page?
+1,direction.json,There is no table_caption in the bottom right of page,What table captions are bottom right of this page?
+1,direction.json,It is unclear,What is table about on the left of the page?
+1,direction.json,It is unclear,What is table about on the top left of the page?
+2,direction.json,It is unclear,What is table about on the bottom left of the page?
+2,direction.json,It is unclear,What is table about on the right of the page?
+2,direction.json,It is unclear,What is table about on the top right of the page?
+2,direction.json,It is unclear,What is table about on the bottom right of the page?
+2,direction.json,It is unclear,What is list about on the left of the page?
+2,direction.json,It is unclear,What is list about on the top left of the page?
+2,direction.json,It is unclear,What is list about on the bottom left of the page?
+2,direction.json,It is unclear,What is list about on the right of the page
+2,direction.json,It is unclear,What is list about on the top right of the page?
+2,direction.json,It is unclear,What is list about on the bottom right of the page?
+3,direction.json,It is unclear,What is figure about on the left of the page?
+3,direction.json,It is unclear,What is figure about on the top left of the page?
+3,direction.json,It is unclear,What is figure about on the bottom left of the page?
+3,direction.json,It is unclear,What is figure about on the right of the page?
+3,direction.json,It is unclear,What is figure about on the top right of the page?
+3,direction.json,It is unclear,What is figure about on the bottom right of the page?
+3,direction.json,There is no figure_caption in the left of page,What figure captions are left of this page?
+3,direction.json,There is no figure_caption in the top left of page,What figure captions are top left of this page?
+3,direction.json,There is no figure_caption in the bottom left of page,What figure captions are bottom left of this page?
+3,direction.json,There is no figure_caption in the right of page,What figure captions are right of this page?
+4,direction.json,There is no figure_caption in the top right of page,What figure captions are top right of this page?
+4,direction.json,There is no figure_caption in the bottom right of page,What figure captions are bottom right of this page?
+4,direction.json,There is no title in the left of page,What titles are left of this page?
+4,direction.json,There is no title in the top left of page,What titles are top left of this page?
+4,direction.json,There is no title in the bottom left of page,What titles are bottom left of this page?
+4,direction.json,There is no title in the right of page,What titles are right of this page?
+4,direction.json,There is no title in the top right of page,What titles are top right of this page?
+4,direction.json,There is no title in the bottom right of page,What titles are bottom right of this page?
+4,direction.json,It is unclear,What is text about on the left of the page?
+4,direction.json,It is unclear,What is text about on the top left of the page?
+5,direction.json,It is unclear,What is text about on the bottom left of the page?
+5,direction.json,It is unclear,What is text about on the right of the page?
+5,direction.json,It is unclear,What is text about on the top right of the page?
+5,direction.json,It is unclear,What is text about on the bottom right of the page?
+5,direction.json,There is no table_caption in the right of page,What table captions are left of this page?
+5,direction.json,There is no table_caption in the top right of page,What table captions are top left of this page?
+5,direction.json,There is no table_caption in the bottom right of page,What table captions are bottom left of this page?
+5,direction.json,There is no table_caption in the right of page,What table captions are right of this page?
+5,direction.json,There is no table_caption in the top right of page,What table captions are top right of this page?
+5,direction.json,There is no table_caption in the bottom right of page,What table captions are bottom right of this page?
+6,direction.json,It is unclear,What is table about on the left of the page?
+6,direction.json,It is unclear,What is table about on the top left of the page?
+6,direction.json,It is unclear,What is table about on the bottom left of the page?
+6,direction.json,It is unclear,What is table about on the right of the page?
+6,direction.json,It is unclear,What is table about on the top right of the page?
+6,direction.json,It is unclear,What is table about on the bottom right of the page?
+6,direction.json,text 6,What is list about on the left of the page?
+6,direction.json,text 6,What is list about on the top left of the page?
+6,direction.json,It is unclear,What is list about on the bottom left of the page?
+6,direction.json,It is unclear,What is list about on the right of the page
+7,direction.json,It is unclear,What is list about on the top right of the page?
+7,direction.json,It is unclear,What is list about on the bottom right of the page?
+7,direction.json,It is unclear,What is figure about on the left of the page?
+7,direction.json,It is unclear,What is figure about on the top left of the page?
+7,direction.json,It is unclear,What is figure about on the bottom left of the page?
+7,direction.json,It is unclear,What is figure about on the right of the page?
+7,direction.json,It is unclear,What is figure about on the top right of the page?
+7,direction.json,It is unclear,What is figure about on the bottom right of the page?
+7,direction.json,There is no figure_caption in the left of page,What figure captions are left of this page?
+7,direction.json,There is no figure_caption in the top left of page,What figure captions are top left of this page?

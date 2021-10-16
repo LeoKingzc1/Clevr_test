@@ -1,0 +1,81 @@
+,ImageName,Categories,Questions
+0,0.png,zero_hop.json,How many titles are there?
+1,0.png,single_and.json,"Are there existing a content that are top the journal text 0 and bottom the journal component 6? If more than one, what is the total count?"
+2,0.png,single_and.json,There is a component that is bottom the journal text 1 and top the component 8; what is its content?
+3,0.png,two_hop.json,There is a journal component bottom the 2 journal text; Is component 0s top it?
+4,0.png,two_hop.json,Is there a content top-left the title that is top the component 1?
+5,0.png,one_hop.json,How many text s are bottom-right the component 6?
+6,0.png,one_hop.json,"There is a journal component 4; are there any journal text 1s bottom-right it, what content is it?"
+7,0.png,one_hop.json,There is a content that is top the text 1; what is its type?
+8,0.png,one_hop.json,What is the title of the title that is on the top of the journal component 8?
+9,0.png,one_hop.json,What titles are left of this page?
+10,1.png,one_hop.json,What titles are right of this page?
+11,1.png,one_hop.json,What tables are right of this page?
+12,1.png,one_hop.json,What tables are left of this page?
+13,1.png,one_hop.json,What texts are left of this page?
+14,1.png,one_hop.json,What texts are right of this page?
+15,1.png,one_hop.json,What figures are right of this page?
+16,1.png,one_hop.json,What figures are left of this page?
+17,1.png,zero_hop.json,How many components are there?
+18,1.png,single_and.json,"Are there existing a content that are left the journal component 0 and top the journal component 7? If more than one, what is the total count?"
+19,1.png,single_and.json,There is a component that is bottom the journal text 3 and top the title 8; what is its content?
+20,2.png,two_hop.json,There is a journal component top the 9 title; Is component 2s left it?
+21,2.png,two_hop.json,Is there a content that is bottom-left the text right the journal component 10?
+22,2.png,one_hop.json,How many journal text s are top the journal component 7?
+23,2.png,one_hop.json,"There is a text 7; are there any journal text 7s top it, what content is it?"
+24,2.png,one_hop.json,There is a content that is left the title 9; what is its type?
+25,2.png,one_hop.json,What is the title of the journal text on the right of the text 6?
+26,2.png,one_hop.json,What titles are left of this page?
+27,2.png,one_hop.json,What titles are right of this page?
+28,2.png,one_hop.json,What tables are right of this page?
+29,2.png,one_hop.json,What tables are left of this page?
+30,3.png,one_hop.json,What texts are left of this page?
+31,3.png,one_hop.json,What texts are right of this page?
+32,3.png,one_hop.json,What figures are right of this page?
+33,3.png,one_hop.json,What figures are left of this page?
+34,3.png,zero_hop.json,How many table_captions are there?
+35,3.png,single_and.json,"Are there existing a content that are right the title 7 and bottom the component 2? If more than one, what is the total count?"
+36,3.png,single_and.json,What is content that is both bottom the journal title 7 and left the journal component 4?
+37,3.png,two_hop.json,There is a journal component bottom-right the 5 journal text; Is title s top-left it?
+38,3.png,two_hop.json,Is there a content that is bottom-right the journal text top-right the text 3?
+39,3.png,one_hop.json,There is a journal component 3; how many text s are bottom-left it?
+40,4.png,one_hop.json,"There is a journal figure_caption 3; are there any journal component s bottom-left it, what content is it?"
+41,4.png,one_hop.json,What is the type of content that is top the journal figure_caption 3?
+42,4.png,one_hop.json,What is the title of the component on the top of the component 3?
+43,4.png,one_hop.json,What titles are left of this page?
+44,4.png,one_hop.json,What titles are right of this page?
+45,4.png,one_hop.json,What tables are right of this page?
+46,4.png,one_hop.json,What tables are left of this page?
+47,4.png,one_hop.json,What texts are left of this page?
+48,4.png,one_hop.json,What texts are right of this page?
+49,4.png,one_hop.json,What figures are right of this page?
+50,5.png,one_hop.json,What figures are left of this page?
+51,5.png,zero_hop.json,How many figure_captions are there?
+52,5.png,single_and.json,"Are there existing a content that are top the journal component 1 and bottom the journal figure 5? If more than one, what is the total count?"
+53,5.png,single_and.json,What is content that is both bottom the journal component 5 and top the journal component 1?
+54,5.png,two_hop.json,There is a text top the 3 component; Is journal figure_caption s top-left it?
+55,5.png,two_hop.json,Is there a content bottom-left the journal text that is top-right the journal text 3?
+56,5.png,one_hop.json,How many text s are bottom-right the component 3?
+57,5.png,one_hop.json,"There is a journal component 4; are there any text 3s left it, what content is it?"
+58,5.png,one_hop.json,There is a content that is bottom the component 0; what is its type?
+59,5.png,one_hop.json,What is the title of the journal component that is on the top of the component 4?
+60,6.png,one_hop.json,What titles are left of this page?
+61,6.png,one_hop.json,What titles are right of this page?
+62,6.png,one_hop.json,What tables are right of this page?
+63,6.png,one_hop.json,What tables are left of this page?
+64,6.png,one_hop.json,What texts are left of this page?
+65,6.png,one_hop.json,What texts are right of this page?
+66,6.png,one_hop.json,What figures are right of this page?
+67,6.png,one_hop.json,What figures are left of this page?
+68,6.png,zero_hop.json,How many texts are there?
+69,6.png,single_and.json,"Are there existing a content that are right the component 2 and bottom the journal text 3? If more than one, what is the total count?"
+70,7.png,two_hop.json,There is a text bottom the 0 journal component; Is journal component 2s top it?
+71,7.png,two_hop.json,Is there a content that is top-right the journal text right the journal list ?
+72,7.png,one_hop.json,There is a component 1; how many journal list s are top-right it?
+73,7.png,one_hop.json,"There is a journal list 2; are there any journal text s top-right it, what content is it?"
+74,7.png,one_hop.json,There is a content that is top the journal text 1; what is its type?
+75,7.png,one_hop.json,What is the title of the journal component on the left of the component 0?
+76,7.png,one_hop.json,What titles are left of this page?
+77,7.png,one_hop.json,What titles are right of this page?
+78,7.png,one_hop.json,What tables are right of this page?
+79,7.png,one_hop.json,What tables are left of this page?
